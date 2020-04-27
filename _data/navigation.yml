@@ -6,7 +6,7 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Nutzpflanzen"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Wurmfarm"
   url: "/headers/"
   side: left
   dropdown:
