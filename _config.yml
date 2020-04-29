@@ -271,4 +271,4 @@ asciidoctor:
     coderay-css: style
     icons: font
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
