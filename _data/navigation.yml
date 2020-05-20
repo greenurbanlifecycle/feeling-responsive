@@ -1,35 +1,46 @@
-- title: Start
+﻿- title: Start
   url: "/"
   side: left
 
-- title: Kalender
-  url: "/getting-started/"
-  side: left
-
-- title: "Nutzpflanzen"
-  url: "/nutzpflanzen/"
+- title: Calender
+  url: "/calender/"
   side: left
   dropdown:
-  - title: "Tomaten"
-    url: "/design/tomaten/"
+  - title: "Pflanz- und Erntekalender"
+    url: "/design/Erntekalender/"
+  - title: "Events"
+    url: "/events/"
 
-- title: "Wurmfarm"
-  url: "/headers/"
+
+- title: "Plants"
+  url: "/plants/"
   side: left
   dropdown:
-  - title: "Komponenten"
-    url: "/design/header-full-width-image/"
-  - title: "Würmer"
-    url: "/design/header-image-pattern/"
+  - title: "Für den Balkon"
+    url: "/design/fuerDenBalkon/"
+  - title: "Indoor"
+    url: "/design/indoor/"
+  - title: "Garten"
+    url: "/design/garten/"
+  - title: "Exoten"
+    url: "/design/exoten/"
 
-- title: "Essen & Rezepte"
-  url: "/documentation/"
+
+- title: "Composting"
+  url: "/composting/"
   side: left
   dropdown:
-  - title: "Rezept 1"
-    url: "/changelog/"
-  - title: "Rezept 2"
-    url: "/roadmap/"
+  - title: "Wurmfarm"
+    url: "Wurmfarm"
+
+- title: "Food"
+  url: "/food/"
+  side: left
+  dropdown:
+  - title: "Türkisches Frühstück"
+    url: "/tuerkischesFruehstueck/"
+  - title: "Aus dem Garten"
+    url: "/ausdemGarten/"
 
 - title: Blog
   url: "/blog/"
