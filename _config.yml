@@ -1,4 +1,4 @@
-# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+﻿# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
 #     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
@@ -11,7 +11,7 @@
 title: 'Green Urban Lifecycle'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Scientific Approach to around Urban Gardening'
+slogan: 'A Scientific Approach to Urban Gardening'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Green Urban Lifecycle soll als Anlaufpunkt für den Stadtmenschen ohne Grünen Daumen dienen, der Lust auf ein paar Pflanzen hat oder einfach nette Geschichten darüber lesen möchte.'
@@ -38,10 +38,12 @@ improve_content: https://github.com/greenurbanlifecycle/greenurbanlifecycle.gith
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/greenurbanlifecycle/greenurbanlifecycle.github.io/images'
+urlimg: './images/'
 
 # Logo size is 600x80 pixels
-logo: "logo_breit.png"
+logo: "Titelbild.jpg"
+
+
 
 # Plugins
 plugins:

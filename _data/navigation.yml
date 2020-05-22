@@ -31,16 +31,16 @@
   side: left
   dropdown:
   - title: "Wurmfarm"
-    url: "Wurmfarm"
+    url: "/composting/Wurmfarm"
 
 - title: "Food"
   url: "/food/"
   side: left
   dropdown:
   - title: "Türkisches Frühstück"
-    url: "/tuerkischesFruehstueck/"
+    url: "/food/tuerkischesFruehstueck/"
   - title: "Aus dem Garten"
-    url: "/ausdemGarten/"
+    url: "/food/ausdemGarten/"
 
 - title: Blog
   url: "/blog/"
