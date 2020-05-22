@@ -6,12 +6,16 @@
   url: "/getting-started/"
   side: left
 
-- title: "Nutzpflanzen"
+- title: "Gärtnern"
   url: "/nutzpflanzen/"
   side: left
   dropdown:
   - title: "Tomaten"
     url: "/design/tomaten/"
+    side: left
+    dropdown:
+    - title: "test"
+      url: "/blog/"
 
 - title: "Wurmfarm"
   url: "/headers/"

@@ -38,7 +38,8 @@ improve_content: https://github.com/greenurbanlifecycle/greenurbanlifecycle.gith
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/greenurbanlifecycle/greenurbanlifecycle.github.io/images'
+urlimg: './images/' # for use on local machine
+#urlimp: 'https://github.com/greenurbanlifecycle/greenurbanlifecycle.github.io/images' # for online use
 
 # Logo size is 600x80 pixels
 logo: "logo_breit.png"
