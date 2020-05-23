@@ -26,7 +26,7 @@ author: max
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://greenurbanlifecycle.github.io'
-#baseurl: ''
+#baseurl: '.'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,8 +38,9 @@ improve_content: https://github.com/greenurbanlifecycle/greenurbanlifecycle.gith
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: './images/' # for use on local machine
-#urlimp: 'https://github.com/greenurbanlifecycle/greenurbanlifecycle.github.io/images' # for online use
+urlimg: '~/gulc/greenurbanlifecycle.github.io/images/'
+#urlimg: {{ './images/' | relative_url }} # for use on local machine
+#urlimgl: 'https://github.com/greenurbanlifecycle/greenurbanlifecycle.github.io/images' # for online use
 
 # Logo size is 600x80 pixels
 logo: "logo_breit.png"
