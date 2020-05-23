@@ -33,6 +33,12 @@
   - title: "Wurmfarm"
     url: "/composting/Wurmfarm"
 
+
+- title: "Do it yourself"
+  url: "/doityourself/"
+  side: left
+
+
 - title: "Food"
   url: "/food/"
   side: left
@@ -46,6 +52,8 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: "Was machen wir?"
+    url: "/blog/portfolio/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 

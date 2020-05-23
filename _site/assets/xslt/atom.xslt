@@ -161,6 +161,14 @@
 
           
           
+        
+
+              
+
+
+
+          
+          
             
             
               <li class="divider"></li>
@@ -312,6 +320,21 @@
 
             
             
+              <li><a  href="http://localhost:4000/doityourself/">Do it yourself</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
 
               <li class="has-dropdown">
                 <a  href="http://localhost:4000/food/">Food</a>
@@ -352,6 +375,11 @@
 
                       
 
+                      <li><a  href="http://localhost:4000/blog/portfolio/">Was machen wir?</a></li>
+                    
+
+                      
+
                       <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
@@ -385,7 +413,7 @@
 	<div class="row">
 		<div class="small-12 columns">
 			<a id="logo" href="http://localhost:4000/" title="Green Urban Lifecycle – A Scientific Approach to Urban Gardening">
-				<img src="http://localhost:4000/assets/img/Titelbild.jpg" alt="Green Urban Lifecycle – A Scientific Approach to Urban Gardening">
+				<img src="http://localhost:4000/assets/img/Logo_schrift_2.png" alt="Green Urban Lifecycle – A Scientific Approach to Urban Gardening">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->

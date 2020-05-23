@@ -6,10 +6,10 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Palmen.jpg 
+    image_fullwidth: header_frontpage_gulc.jpg 
 widget1:
   title: "Was machen wir?"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: "/blog/portfolio/"
   image: Ueberblick.jpg
   text: 'In diesem Blog berichten wir über das grüne Leben in der Stadt und wie ihr auch ohne grünen Daumen erfolgreich auf kleinstem Raum Obst und Gemüse anbauen könnt. Wir erklären wie ihr günstig Kompost & Dünger herstellt und mit Problemen wie der richtigen Standortwahl, Ungeziefer und Überwinterung umgeht. Außerdem geben wir euch Tipps wie ihr eure Ernte schnell und einfach zu leckeren, saisonalen Gerichten zubereitet. Und dazu Dinge zum Nachmachen, Nachbasteln und ausprobieren. Viel Spaß:-)'
 widget2:

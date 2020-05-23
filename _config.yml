@@ -41,9 +41,7 @@ improve_content: https://github.com/greenurbanlifecycle/greenurbanlifecycle.gith
 urlimg: './images/'
 
 # Logo size is 600x80 pixels
-logo: "Titelbild.jpg"
-
-
+logo: "Logo_schrift_2.png"
 
 # Plugins
 plugins:

@@ -7,23 +7,34 @@ categories:
     - design
 tags:
     - post format
-image:
-   thumb: "TF_1.jpg"
+header:
+    image_fullwidth: TF_3.jpg 
+thumb: "TF_3.jpg"
 gallery:
     - image_url: TF_1.jpg
       caption: Wo gibt es so frischen Honig?
+      caption_url: ""
     - image_url: TF_2.jpg
       caption: Great images by Unsplash.com
     - image_url: TF_3.jpg
       caption: Die Auswahl kann überwältigend sein.
+    - image_url: TF_4.jpg
+      caption: Wo gibt es so frischen Honig?
+    - image_url: TF_5.jpg
+      caption: Great images by Unsplash.com
+    - image_url: TF_6.jpg
+      caption: Die Auswahl kann überwältigend sein.
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
-<!--more-->
+
+## Galerie
+Um euch eine schnelle Übersicht zu geben haben wir ein paar Bilder in der Galerie hinterlegt. Unten findet ihr außerdem Links zu allen Rezepten. 
+
+**Guten Appetit, Afiyet olsun!**
 
 {% include gallery %}
 
 
-## How to embed a gallery
+## Rezepte
 
 `{% raw %}{% include gallery %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
 
