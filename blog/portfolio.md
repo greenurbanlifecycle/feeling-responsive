@@ -87,7 +87,7 @@ image:
                 Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter   Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
                 Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter 
 
-        <a href="/food/tuerkischesFruehstueck/" title="Für den Balkon"><strong>Read More&nbsp;›</strong></a>
+        <a href="/food/tuerkischesFruehstueck/" title="Türkisches Frühstück"><strong>Read More&nbsp;›</strong></a>
       </p>
       <p>
       <p class="subheadline"><span class="subheader">Aus dem Garten</span></p>
