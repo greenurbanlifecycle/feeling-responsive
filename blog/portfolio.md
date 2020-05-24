@@ -42,14 +42,14 @@ image:
       </p>
       <p>
       <p class="subheadline"><span class="subheader">Garten</span></p>
-      <a href="/plants/indoor/" title="Indoor"><img src="\images\Garten_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
+      <a href="/plants/arten/" title="Indoor"><img src="\images\Garten_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         <a href="/plants/garten/" title="Garten"><strong>Read More&nbsp;›</strong></a>
       </p>
       <p>
       <p class="subheadline"><span class="subheader">Exoten</span></p>
-      <a href="/plants/indoor/" title="Indoor"><img src="\images\Exoten_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
+      <a href="/plants/exoten/" title="Indoor"><img src="\images\Exoten_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         <a href="/plants/exoten/" title="Exoten"><strong>Read More&nbsp;›</strong></a>
