@@ -231,12 +231,12 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/design/Erntekalender/">Pflanz- und Erntekalender</a></li>
+                      <li><a  href="http://localhost:4000/calender/Erntekalender/">Pflanz- und Erntekalender</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/events/">Events</a></li>
+                      <li><a  href="http://localhost:4000/calender/events/">Events</a></li>
                     
                   </ul>
 
@@ -262,22 +262,22 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/design/fuerDenBalkon/">Für den Balkon</a></li>
+                      <li><a  href="http://localhost:4000/plants/fuerDenBalkon/">Balkon &amp; Terasse</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/design/indoor/">Indoor</a></li>
+                      <li><a  href="http://localhost:4000/plants/indoor/">Indoor</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/design/garten/">Garten</a></li>
+                      <li><a  href="http://localhost:4000/plants/garten/">Garten</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/design/exoten/">Exoten</a></li>
+                      <li><a  href="http://localhost:4000/plants/exoten/">Exoten</a></li>
                     
                   </ul>
 
@@ -320,21 +320,6 @@
 
             
             
-              <li><a  href="http://localhost:4000/doityourself/">Do it yourself</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
 
               <li class="has-dropdown">
                 <a  href="http://localhost:4000/food/">Food</a>
@@ -355,6 +340,21 @@
 
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/doityourself/">Do it yourself</a></li>
+              <li class="divider"></li>
+
+            
             
           
         

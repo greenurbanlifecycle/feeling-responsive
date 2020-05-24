@@ -9,7 +9,12 @@ header:
     image_fullwidth: plants_header.jpg
 
 ---
+> <span class="teaser">If we plant the right seeds, tomorrow will be better.</span>
+  <cite>[Ben Vereen][1]</cite>
  <!--more-->
+
+
+
 
  <div class="row t60">
     <div class="medium-6 columns b30">
@@ -40,3 +45,5 @@ header:
             </p>
     </div><!-- /.medium-6.columns -->
  </div><!-- /.row -->
+
+ [1]: https://en.wikipedia.org/wiki/Ben_Vereen

@@ -7,23 +7,23 @@
   side: left
   dropdown:
   - title: "Pflanz- und Erntekalender"
-    url: "/design/Erntekalender/"
+    url: "/calender/Erntekalender/"
   - title: "Events"
-    url: "/events/"
+    url: "/calender/events/"
 
 
 - title: "Plants"
   url: "/plants/"
   side: left
   dropdown:
-  - title: "Für den Balkon"
-    url: "/design/fuerDenBalkon/"
+  - title: "Balkon & Terasse"
+    url: "/plants/fuerDenBalkon/"
   - title: "Indoor"
-    url: "/design/indoor/"
+    url: "/plants/indoor/"
   - title: "Garten"
-    url: "/design/garten/"
+    url: "/plants/garten/"
   - title: "Exoten"
-    url: "/design/exoten/"
+    url: "/plants/exoten/"
 
 
 - title: "Composting"
@@ -34,11 +34,6 @@
     url: "/composting/Wurmfarm"
 
 
-- title: "Do it yourself"
-  url: "/doityourself/"
-  side: left
-
-
 - title: "Food"
   url: "/food/"
   side: left
@@ -47,6 +42,12 @@
     url: "/food/tuerkischesFruehstueck/"
   - title: "Aus dem Garten"
     url: "/food/ausdemGarten/"
+
+
+- title: "Do it yourself"
+  url: "/doityourself/"
+  side: left
+
 
 - title: Blog
   url: "/blog/"
