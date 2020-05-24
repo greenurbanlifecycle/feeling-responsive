@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Green Urban Lifecycle</title>
-	<updated>2020-05-24T17:09:26+02:00</updated>
+	<updated>2020-05-24T19:05:05+02:00</updated>
 
 	<subtitle>Green Urban Lifecycle soll als Anlaufpunkt für den Stadtmenschen ohne Grünen Daumen dienen, der Lust auf ein paar Pflanzen hat oder einfach nette Geschichten darüber lesen möchte.</subtitle>
 
@@ -26,97 +26,6 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
-	
-		<entry>
-			<id>http://localhost:4000/design/gulc-portfolio/</id>
-			<title>Was machen wir?</title>
-			<link href="http://localhost:4000/design/gulc-portfolio/" rel="alternate" type="text/html" title="Was machen wir?" />
-			<updated>2020-05-23T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Green Urban Life Cycle ist für alle Menschen, die schon immer von einer grünen Oase geträumt haben, aber nie den Mut hatten ihren Wunsch in die Tat umzusetzen. Lasst euch inspirieren!</summary>
-			<content type="html" xml:base="http://localhost:4000/design/gulc-portfolio/">&lt;h2 id=&quot;plants&quot;&gt;Plants&lt;/h2&gt;
-&lt;p&gt;Pflanzen&lt;/p&gt;
-&lt;p align=&quot;left&quot;&gt;
-&lt;img width=&quot;15%&quot; src=&quot;\images\Ueberblick.jpg&quot; /&gt;
-&lt;/p&gt;
-&lt;p&gt;Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen PflanzenPflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen PflanzenPflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen PflanzenPflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen PflanzenPflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen PflanzenPflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen PflanzenPflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen Pflanzen&lt;/p&gt;
-
-&lt;h2 id=&quot;composting&quot;&gt;Composting&lt;/h2&gt;
-
-&lt;h2 id=&quot;food&quot;&gt;Food&lt;/h2&gt;
-
-&lt;h2 id=&quot;do-it-yourself&quot;&gt;Do it yourself&lt;/h2&gt;
-
-&lt;!--more--&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
-image:
-    title: Ueberblick.jpg
-    caption: Was machen wir?
-    caption_url: &quot;/blog/portfolio/&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
-&lt;p&gt;First turn of the header with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2020-05-23T00:00:00+02:00</published>
-		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/design/mediaelement_js/</id>
@@ -707,8 +616,6 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -776,8 +683,6 @@ image:
 
   
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -848,8 +753,6 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -910,8 +813,6 @@ image:
 
   
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -986,8 +887,6 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1057,8 +956,6 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gulc-portfolio/&quot;&gt;G.U.L.C. &amp;middot; &lt;strong&gt;Was machen wir?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1091,6 +988,76 @@ image:
 			
 
 			<published>2014-10-09T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/header-image-pattern/</id>
+			<title>Header Image With Pattern</title>
+			<link href="http://localhost:4000/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" />
+			<updated>2014-10-08T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    image:  &quot;header_unsplash_2-970x.jpg&quot;
+    pattern:  &quot;pattern_concrete.jpg&quot;
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="pattern" />
+			
+				<category term="header" />
+			
+
+			<published>2014-10-08T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
