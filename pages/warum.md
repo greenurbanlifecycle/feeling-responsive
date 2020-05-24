@@ -43,6 +43,7 @@ Scheint die Sonne auf die Erde, so bilden sich wie in der obigen Abbildung darge
 Versucht man dies jetzt auf die Position der Pflanzen in der Wohnung oder im Garten zu beziehen, ist dies intuitiv nicht direkt möglich. Erstens sind Effekte mit Schattenwürfe immer zeitabhängig, da die Sonne im Tagesverlauf über den Horizont wandert. Zweitens weiß man ja jetzt nicht, zu welcher Zeit die Pflanze im Halbschatten stehen muss. Und da kommen wir dem Problem auf die Schliche! Der Begriff Halbschatten bedeutet bezogen auf die Botanik keinesfalls, dass die Pflanze in der Penumbra eines anderen Objektes stehen muss, sondern vielmehr das über einen Tag betrachtet die Pflanze im Mittel in solch einer Zone steht. Das bedeutet wiederum, dass die Pflanze in einer gewissen Zeit sehr wohl direkter Sonneneinstrahlung ausgesetzt werden darf, aber halt nicht dauerhaft [[7][7]]. Somit kann bei einer durchschnittlichen Sonnenbelichtung von 4-6h pro Tag von einem Halbschattigen  
 ## Ideensammlung
 
+<!--
 * [gelegen][3]
 * [gelegen][4]
 * Für alle Leute, die keinen grünen Daumen haben aber gerne was anpflanzen würden
@@ -63,7 +64,7 @@ Versucht man dies jetzt auf die Position der Pflanzen in der Wohnung oder im Gar
 * ggfls. mit wissenschaftlichen Studien stützen
 * Vergleiche machen, eventuell auch preislicher Natur 
 * und am Ende auch etwas selbstverwirklichung und spaß am bloggen sowie an der Verwicklichung von eigenen Ideen
-
+-->
 
 ## Warum?
 
