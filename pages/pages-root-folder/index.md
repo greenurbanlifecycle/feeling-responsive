@@ -19,7 +19,7 @@ widget2:
   text: 'Was ist "Halbschatten"? Was heißt "nicht zu viel gießen" oder "mäßig gießen"? Weil wir selber unpräzise Angaben aus persönlichen und beruflichen Wegen verabscheuen, wollen wir in diesem Blog möglichst verständliche und deutliche Tipps geben, wie erfolgreich etwas wächst, ohne schon als Botaniker auf die Welt gekommen zu sein. Dabei sollte ebenfalls die humoristische Komponente auch nicht zu kurz kommen.'
 widget3:
   title: "Wer & Was sind wir?"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/contact/'
   image: Logo1_2.png
   text: 'Als Ingenieure sind wir in erster Linie Software Entwickler und Gärtnern stellt einen Ausgleich zu den langen Tagen vor unseren Monitoren dar. Auch wenn unsere Ausbildung nichts mit Gärtnern zu tun hat, haben wir gelernt Dinge zu hinterfragen und teils kreative Lösungen für Probleme zu suchen. Wir lieben es zu kochen, verrückte Dinge auszuprobieren und Probleme zu lösen. Auf diese Weise möchten wir unsere Ideen und Erfahrungen mit euch teilen. '
 #

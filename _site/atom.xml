@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Green Urban Lifecycle</title>
-	<updated>2020-05-24T19:05:05+02:00</updated>
+	<updated>2020-05-27T17:12:12+02:00</updated>
 
 	<subtitle>Green Urban Lifecycle soll als Anlaufpunkt für den Stadtmenschen ohne Grünen Daumen dienen, der Lust auf ein paar Pflanzen hat oder einfach nette Geschichten darüber lesen möchte.</subtitle>
 
@@ -26,6 +26,61 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/why/</id>
+			<title>Warum</title>
+			<link href="http://localhost:4000/why/" rel="alternate" type="text/html" title="Warum" />
+			<updated>2020-05-23T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Hier sollte ein kleiner Infotext stehen, wieso wir das eigentlich machen...</summary>
+			<content type="html" xml:base="http://localhost:4000/why/">&lt;h2 id=&quot;ideensammlung&quot;&gt;Ideensammlung&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Für alle Leute, die keinen grünen Daumen haben aber gerne was anpflanzen würden&lt;/li&gt;
+  &lt;li&gt;waren selbst immer etwas genervt von undeutlichen Aussagen bzgl. Halbschatten und mittelmäßig viel gießen&lt;/li&gt;
+  &lt;li&gt;als wissentschaftler finden wir präzise angaben wichtig&lt;/li&gt;
+  &lt;li&gt;diesen Scientific Approach mit Witz wollen wir hier vermitteln und dies möglichst einfach&lt;/li&gt;
+  &lt;li&gt;generell kurze knappe Infos und wer will kann auch ausführlichere Berichte lesen, die immer auch etwas humoristisch aufgefasst werden sollten&lt;/li&gt;
+  &lt;li&gt;Literatur wird immer mit verlinkt sowie um eigene Erfahrungsberichte ergänzt&lt;/li&gt;
+  &lt;li&gt;wir versuchen nach möglichkeit auch eigene Studien zu fahren, jedoch natürlich nur im geringen Umfang&lt;/li&gt;
+  &lt;li&gt;wollen etwas für das Umweltbewusste Leben tun ohne sich jetzt als großer weltverbesserer darstellen zu wollen&lt;/li&gt;
+  &lt;li&gt;sehr positives gefühl, wenn man etwas wachsen sieht&lt;/li&gt;
+  &lt;li&gt;Pflanzen haben sehr viele positive Eigenschaften und sehen auch noch schön aus&lt;/li&gt;
+  &lt;li&gt;ich persönlich bin nicht so der Blumentyp aber bestimmte Nutzpflanzen erzielen auch einen guten Effekt&lt;/li&gt;
+  &lt;li&gt;essen schmeckt gleich besser mit eigenen Kräutern&lt;/li&gt;
+  &lt;li&gt;unabhängig von Supermarkt und meißt zugang zu frischen kräutern&lt;/li&gt;
+  &lt;li&gt;wollen auch über unsere Probleme beim Anbau schreiben und wie wir diese gelöst haben&lt;/li&gt;
+  &lt;li&gt;Grundidee ist es, durch smarte Verlinkungen und eine strukturierte Darstellung den Leser möglichst schnell zu den gewünschten Informationen zu bringen&lt;/li&gt;
+  &lt;li&gt;ggfls. mit wissenschaftlichen Studien stützen&lt;/li&gt;
+  &lt;li&gt;Vergleiche machen, eventuell auch preislicher Natur&lt;/li&gt;
+  &lt;li&gt;und am Ende auch etwas selbstverwirklichung und spaß am bloggen sowie an der Verwicklichung von eigenen Ideen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;warum&quot;&gt;Warum?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/nutzpflanzen/tomaten/&quot;&gt;Tomaten&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+
+			
+			
+
+			<published>2020-05-23T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/design/mediaelement_js/</id>
@@ -988,76 +1043,6 @@ image:
 			
 
 			<published>2014-10-09T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/design/header-image-pattern/</id>
-			<title>Header Image With Pattern</title>
-			<link href="http://localhost:4000/design/header-image-pattern/" rel="alternate" type="text/html" title="Header Image With Pattern" />
-			<updated>2014-10-08T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This example shows a header image in front of a pattern.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/header-image-pattern/">&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="pattern" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-08T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
