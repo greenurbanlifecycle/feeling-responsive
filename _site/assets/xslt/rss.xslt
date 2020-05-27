@@ -153,22 +153,6 @@
 
           
           
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
             
             
               <li class="divider"></li>
@@ -211,37 +195,6 @@
               <li class="divider"></li>
 
             
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/calender/">Calender</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/calender/Erntekalender/">Pflanz- und Erntekalender</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/calender/events/">Events</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
             
           
         
@@ -351,21 +304,6 @@
 
             
             
-              <li><a  href="http://localhost:4000/doityourself/">Do it yourself</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
 
               <li class="has-dropdown">
                 <a  href="http://localhost:4000/blog/">Blog</a>
@@ -381,6 +319,11 @@
                       
 
                       <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/blog/feedback/">Feedback</a></li>
                     
                   </ul>
 

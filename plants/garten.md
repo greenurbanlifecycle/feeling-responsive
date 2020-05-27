@@ -37,7 +37,7 @@ Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Plat
       </p>
       <p>
       <p class="subheadline"><span class="subheader">Chilis</span></p>
-      <a href="/plants/posts/chili/" title="Chilis"><img src="\images\Garten_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
+      <a href="/plants/posts/chili/" title="Chilis"><img src="\images\chili_birdseyeblack_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         <a href="/plants/posts/chili/" title="Chilis"><strong>Read More&nbsp;›</strong></a>
