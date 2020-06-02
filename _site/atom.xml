@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Green Urban Lifecycle</title>
-	<updated>2020-06-02T10:21:51+02:00</updated>
+	<updated>2020-06-02T10:40:25+02:00</updated>
 
 	<subtitle>Green Urban Lifecycle soll als Anlaufpunkt für den Stadtmenschen ohne Grünen Daumen dienen, der Lust auf ein paar Pflanzen hat oder einfach nette Geschichten darüber lesen möchte.</subtitle>
 
@@ -28,9 +28,9 @@
 
 	
 		<entry>
-			<id>http://localhost:4000/design/Wurmfarm/</id>
+			<id>http://localhost:4000/Wurmfarm/</id>
 			<title>Die Wurmfarm</title>
-			<link href="http://localhost:4000/design/Wurmfarm/" rel="alternate" type="text/html" title="Die Wurmfarm" />
+			<link href="http://localhost:4000/Wurmfarm/" rel="alternate" type="text/html" title="Die Wurmfarm" />
 			<updated>2020-06-02T00:00:00+02:00</updated>
 
 			
@@ -44,7 +44,7 @@
 				</author>
 			
 			<summary>Eine Wurmfarm bietet euch die Möglichkeit eure Küchenabfälle zu entsorgen und auf kleinstem Raum Biodünger herzustellen. Wir zeigen euch welche Konzepte es gibt, worauf man achten sollte, was in die Wurmbox gehört und was besser draußen bleibt und wie ihr eure Würme sicher durch den Winter bringt.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/Wurmfarm/">&lt;blockquote&gt;
+			<content type="html" xml:base="http://localhost:4000/Wurmfarm/">&lt;blockquote&gt;
   &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;It may be doubted whether there are many other animals which have played so important a part in the history of the world, as have these lowly organized creatures.&lt;/span&gt; &lt;cite&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Charles_Darwin&quot;&gt;Charles Darwin, 1881&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -107,7 +107,7 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 
 &lt;h2 id=&quot;mehr-zum-thema-wurmfarm&quot;&gt;Mehr zum Thema Wurmfarm&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;composting/wurmfarm/ueberblick&quot;&gt;Wurmfarm - ein Überblick&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/composting/wurmfarm/ueberblick/&quot;&gt;Wurmfarm - ein Überblick&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;mehr-zur-anzucht-von-chilis&quot;&gt;Mehr zur Anzucht von Chilis&lt;/h2&gt;
@@ -120,40 +120,13 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 </content>
 
 			
-				<category term="design" />
+				<category term="" />
+			
+				<category term="" />
 			
 			
 
 			<published>2020-06-02T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/chili/</id>
-			<title>Chili Anbau</title>
-			<link href="http://localhost:4000/chili/" rel="alternate" type="text/html" title="Chili Anbau" />
-			<updated>2020-05-27T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Hier zeigen wir euch alles zum Chili Anbau. Welches ist die richtige Sorte, der richtige Standort und wie holt ihr das Maximum aus eurer Pflanze.</summary>
-			<content type="html" xml:base="http://localhost:4000/chili/"></content>
-
-			
-				<category term="" />
-			
-				<category term="" />
-			
-			
-
-			<published>2020-05-27T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
@@ -998,6 +971,67 @@ image:
 			
 
 			<published>2015-02-10T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/design/header-logo-only/</id>
+			<title>Header With Logo Only</title>
+			<link href="http://localhost:4000/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
+			<updated>2014-10-09T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
+			<content type="html" xml:base="http://localhost:4000/design/header-logo-only/">&lt;p&gt;No front matter code needed.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="design" />
+			
+				<category term="background color" />
+			
+				<category term="header" />
+			
+
+			<published>2014-10-09T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
