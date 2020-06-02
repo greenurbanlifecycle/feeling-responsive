@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Warum noch ein Blog?"
   url: '/warum/'
-  image: warum_tontis.jpg
+  image: GULC_why.png
   text: 'Was ist "Halbschatten"? Was heißt "nicht zu viel gießen" oder "mäßig gießen"? Weil wir selber unpräzise Angaben aus persönlichen und beruflichen Wegen verabscheuen, wollen wir in diesem Blog möglichst verständliche und deutliche Tipps geben, wie erfolgreich etwas wächst, ohne schon als Botaniker auf die Welt gekommen zu sein. Dabei sollte ebenfalls die humoristische Komponente auch nicht zu kurz kommen.'
 widget3:
   title: "Wer & Was sind wir?"
