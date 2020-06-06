@@ -9,14 +9,10 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Die Wurmfarm</title>
-				<link>http://localhost:4000/Wurmfarm/</link>
-				<pubDate>Tue, 02 Jun 2020 00:00:00 +0200</pubDate>
-				<description>&lt;blockquote&gt;
-  &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;It may be doubted whether there are many other animals which have played so important a part in the history of the world, as have these lowly organized creatures.&lt;/span&gt; &lt;cite&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Charles_Darwin&quot;&gt;Charles Darwin, 1881&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;wie-alles-begann&quot;&gt;Wie alles begann…&lt;/h2&gt;
+				<title>Meine erste Wurmfarm</title>
+				<link>http://localhost:4000/composting/wurmfarm/Wurmfarm_derAnfang/</link>
+				<pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
+				<description>&lt;h2 id=&quot;wie-alles-begann&quot;&gt;Wie alles begann…&lt;/h2&gt;
 &lt;p&gt;Die erste Frage die ihr euch sicherlich stellt lautet vermutlich: &lt;strong&gt;“Warum eine Wurmfarm?”&lt;/strong&gt;
 Zugegebenermaßen eine nicht unberechtigte Frage. Viele Menschen denken bei Würmern sicherlich in erster Linie an schleimige Kriechtiere, die im Komposthaufen des heimischen Gartens erwünscht sind, aber nicht über unsere Türschwelle kriechen sollten. Und so werden die wenigsten Heimbesitzer vor Freude beim Gedanken jubeln, diese in der Küche, auf dem Balkon oder im Keller als dauerhafte Gäste zu beherbergen. Geschweige denn den vierbeinigen, besten Freund des Menschen oder die verschmuste Katze durch eine Horde hungriger Kompostwürmer, die im Übrigen auch als &lt;strong&gt;Mistwürmer&lt;/strong&gt; oder &lt;strong&gt;Stinkwürmer&lt;/strong&gt; bezeichnet werden, zu ersetzen.&lt;/p&gt;
 
@@ -52,20 +48,26 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 		
 		&lt;li&gt;&lt;a href=&quot;/images/FWB_2.jpg&quot;&gt;&lt;img data-caption=&quot;Fertiger Humus in der unteren Ebene&quot; src=&quot;/images/FWB_2-thumb.jpg&quot; alt=&quot;Fertiger Humus in der unteren Ebene&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;/images/FWB_5.jpg&quot;&gt;&lt;img data-caption=&quot;In der unteren Schale sammelt sich Wurmtee&quot; src=&quot;/images/FWB_5-thumb.jpg&quot; alt=&quot;In der unteren Schale sammelt sich Wurmtee&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
+		
+		
+		
+		&lt;li&gt;&lt;a href=&quot;/images/FWB_6.jpg&quot;&gt;&lt;img data-caption=&quot;Die fleißigen Helfer in Aktion&quot; src=&quot;/images/FWB_6-thumb.jpg&quot; alt=&quot;Die fleißigen Helfer in Aktion&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		
 	&lt;/ul&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Die Kosten für die Wurmfarm beliefen sich so auf weniger als 20 € und der Zusammenbau hat nur ca 45 min gedauert. Die ersten Bewohner habe ich im Komposthaufen sowie im Garten gesammelt und dazu ein paar Angelwürmern aus dem Zoogeschäft ein Schicksal am Haken erspart. Zusammen mit ein bisschen Komposterde  und ein paar frischen Küchenabfällen bezogen sie die untere Ebene und machten sich nach kurzer Zeit an die Arbeit. So konnte ich nach kurzer Zeit den ersten Wurmtee ernten.&lt;/p&gt;
 
-&lt;p&gt;Die vielleicht wichtigste Frage: “Konnte der Chili Contest gewonnen werden?”&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ja&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Die vielleicht wichtigste Frage: “Konnte der Chili Contest gewonnen werden?” 
+&lt;strong&gt;Ja&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;War der Schlüssel zum Erfolg Wurmtee?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Möglicherweise&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;War der Schlüssel zum Erfolg Wurmtee?
+&lt;strong&gt;Möglicherweise&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Am Ende des Jahres waren wir tatsächlich das einzige Büro, das einige scharfe Früchte sein eigen nennen durfte. Da zwei der anderen Chilipflanzen jedoch in Folge von Blattlausbefall eingingen und das dritte Büro statt einer Chili eine Paprika anzog (es ist mir nach wie vor ein Rätsel wie dasw passieren konnte) tue ich mich schwer den Erfolg voll dem Wurmtee zuzuschreiben. Letzlich haben sich sowohl die Würmer als auch der Anbau unterschiedlichster Chuilisorten etabliert.&lt;/p&gt;
 
@@ -85,8 +87,9 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 
   &lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
-				<guid isPermaLink="true">http://localhost:4000/Wurmfarm/</guid>
+				<guid isPermaLink="true">http://localhost:4000/composting/wurmfarm/Wurmfarm_derAnfang/</guid>
 			</item>
 		
 			<item>

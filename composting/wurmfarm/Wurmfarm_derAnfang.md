@@ -1,12 +1,19 @@
 ---
 layout: page-fullwidth
-title:  "Die Wurmfarm"
-subheadline:  "Kompostieren auf kleinstem Raum"
-teaser: "Eine Wurmfarm bietet euch die Möglichkeit eure Küchenabfälle zu entsorgen und auf kleinstem Raum Biodünger herzustellen. Wir zeigen euch welche Konzepte es gibt, worauf man achten sollte, was in die Wurmbox gehört und was besser draußen bleibt und wie ihr eure Würme sicher durch den Winter bringt."
+title:  "Meine erste Wurmfarm"
+subheadline:  "Chilis, Würmer & flüssiges Gold"
+teaser: "Warum eine Wurmfarm? Bei mir stellte sich diese Frage nicht wirklich. Ich wollte ursprünglich nur eine Wette gewinnen..."
+meta_teaser: "Warum eine Wurmfarm? Bei mir stellte sich diese Frage nicht wirklich. Ich wollte ursprünglich nur eine Wette gewinnen..."
+breadcrumb: true
 categories:
-    - 
+    - design
 header:
-   image_fullwidth: wormbox_header.jpg
+   image_fullwidth: Wuermer_header.jpg
+tags:
+    - blog
+    - content
+    - post
+    - post format
 gallery:
     - image_url: FWB_4.jpg
       caption: Meine erste Wurmfarm - ein bisschen in die Jahre gekommen
@@ -17,9 +24,13 @@ gallery:
     - image_url: FWB_2.jpg
       caption: Fertiger Humus in der unteren Ebene
       caption_url: "/composting/Wurmfarm/"
+    - image_url: FWB_5.jpg
+      caption: In der unteren Schale sammelt sich Wurmtee
+      caption_url: "/composting/Wurmfarm/"
+    - image_url: FWB_6.jpg
+      caption: Die fleißigen Helfer in Aktion
+      caption_url: "/composting/Wurmfarm/"
 ---
-><span class="teaser">It may be doubted whether there are many other animals which have played so important a part in the history of the world, as have these lowly organized creatures.</span> <cite>[Charles Darwin, 1881][1]</cite>
-
 ## Wie alles begann...
 Die erste Frage die ihr euch sicherlich stellt lautet vermutlich: **"Warum eine Wurmfarm?"**
 Zugegebenermaßen eine nicht unberechtigte Frage. Viele Menschen denken bei Würmern sicherlich in erster Linie an schleimige Kriechtiere, die im Komposthaufen des heimischen Gartens erwünscht sind, aber nicht über unsere Türschwelle kriechen sollten. Und so werden die wenigsten Heimbesitzer vor Freude beim Gedanken jubeln, diese in der Küche, auf dem Balkon oder im Keller als dauerhafte Gäste zu beherbergen. Geschweige denn den vierbeinigen, besten Freund des Menschen oder die verschmuste Katze durch eine Horde hungriger Kompostwürmer, die im Übrigen auch als **Mistwürmer** oder **Stinkwürmer** bezeichnet werden, zu ersetzen.
@@ -44,10 +55,10 @@ Nein! Denn es gab eine weitere Option. **"Liquid Gold"**. In dem Artikel [World'
 Die Kosten für die Wurmfarm beliefen sich so auf weniger als 20 € und der Zusammenbau hat nur ca 45 min gedauert. Die ersten Bewohner habe ich im Komposthaufen sowie im Garten gesammelt und dazu ein paar Angelwürmern aus dem Zoogeschäft ein Schicksal am Haken erspart. Zusammen mit ein bisschen Komposterde  und ein paar frischen Küchenabfällen bezogen sie die untere Ebene und machten sich nach kurzer Zeit an die Arbeit. So konnte ich nach kurzer Zeit den ersten Wurmtee ernten.
 
 Die vielleicht wichtigste Frage: "Konnte der Chili Contest gewonnen werden?" 
-- **Ja**
+**Ja**
 
 War der Schlüssel zum Erfolg Wurmtee?
-- **Möglicherweise**
+**Möglicherweise**
 
 Am Ende des Jahres waren wir tatsächlich das einzige Büro, das einige scharfe Früchte sein eigen nennen durfte. Da zwei der anderen Chilipflanzen jedoch in Folge von Blattlausbefall eingingen und das dritte Büro statt einer Chili eine Paprika anzog (es ist mir nach wie vor ein Rätsel wie dasw passieren konnte) tue ich mich schwer den Erfolg voll dem Wurmtee zuzuschreiben. Letzlich haben sich sowohl die Würmer als auch der Anbau unterschiedlichster Chuilisorten etabliert. 
 
@@ -66,3 +77,4 @@ Viel Spaß beim Lesen und viel Erfolg beim Nachmachen, ausprobieren und experime
   [2]: https://www.australiangeographic.com.au/topics/science-environment/2011/04/worlds-hottest-chilli-grown-by-aussies-1
   [3]: /composting/wurmfarm/ueberblick/
   [4]: /plants/posts/chili/
+
