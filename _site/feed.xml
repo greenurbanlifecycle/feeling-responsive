@@ -9,6 +9,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vertikales Gärtnern</title>
+				<link>http://localhost:4000/plants/balkon&terasse/vertikalerGarten/</link>
+				<pubDate>Sun, 07 Jun 2020 00:00:00 +0200</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/plants/balkon&terasse/vertikalerGarten/</guid>
+			</item>
+		
+			<item>
 				<title>Meine erste Wurmfarm</title>
 				<link>http://localhost:4000/composting/wurmfarm/Wurmfarm_derAnfang/</link>
 				<pubDate>Fri, 05 Jun 2020 00:00:00 +0200</pubDate>
@@ -94,10 +102,10 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 		
 			<item>
 				<title>Chilis auf dem Balkon und im Garten</title>
-				<link>http://localhost:4000/chili/</link>
+				<link>http://localhost:4000/plants/balkon&terasse/chili/</link>
 				<pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://localhost:4000/chili/</guid>
+				<guid isPermaLink="true">http://localhost:4000/plants/balkon&terasse/chili/</guid>
 			</item>
 		
 			<item>
@@ -756,42 +764,6 @@ image:
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/design/header-with-text/</guid>
-			</item>
-		
-			<item>
-				<title>Header With Logo Only</title>
-				<link>http://localhost:4000/design/header-logo-only/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/design/header-logo-only/</guid>
 			</item>
 		
 	</channel>

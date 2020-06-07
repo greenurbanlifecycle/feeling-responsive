@@ -215,7 +215,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/plants/fuerDenBalkon/">Balkon &amp; Terasse</a></li>
+                      <li><a  href="http://localhost:4000/plants/balkon&terasse/">Balkon &amp; Terasse</a></li>
                     
 
                       

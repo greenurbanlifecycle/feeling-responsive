@@ -17,7 +17,7 @@
   side: left
   dropdown:
   - title: "Balkon & Terasse"
-    url: "/plants/fuerDenBalkon/"
+    url: "/plants/balkon&terasse/"
   - title: "Indoor"
     url: "/plants/indoor/"
   - title: "Garten"

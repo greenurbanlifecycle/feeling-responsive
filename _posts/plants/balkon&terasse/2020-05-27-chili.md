@@ -6,10 +6,16 @@ layout: page
 subheadline: "Achtung: scharf"
 title: "Chilis auf dem Balkon und im Garten"
 teaser: "Hier zeigen wir euch alles zum Chili Anbau. Welches ist die richtige Sorte, der richtige Standort und wie holt ihr das Maximum aus eurer Pflanze."
+meta_teaser: "Hier zeigen wir euch alles zum Chili Anbau. Welches ist die richtige Sorte, der richtige Standort und wie holt ihr das Maximum aus eurer Pflanze."
+breadcrumb: true 
 categories:
-  - 
+    - plants
+    - balkon&terasse
 tags:
-  - 
+    - blog
+    - content
+    - post
+    - post format
 #
 # Styling
 #

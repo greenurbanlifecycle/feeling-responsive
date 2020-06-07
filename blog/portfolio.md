@@ -27,11 +27,11 @@ image:
       <p>
       Der Schlüssel zu einer grünen Oase sind in erster Linie die Pflanzen. Ein Schwerpunkt von Green Urban Life Cycle soll sein, die Pflanzen zu finden, die zu euch passen. Dabei möchten wir euch bei der Auswahl, Anzucht & Pflege unterstützen, damit nichts mehr schief laufen kann.
       <p class="subheadline"><span class="subheader">Balkon & Terasse</span></p>
-        <a href="/plants/fuerDenBalkon/" title="Balkon & Terasse"><img src="\images\Balkon_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
+        <a href="/plants/balkon&terasse/" title="Balkon & Terasse"><img src="\images\Balkon_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
 
-                In der Rubrik <a href="/plants/fuerDenBalkon/" title="Balkon & Terasse"><strong>"Balkon & Terasse"&nbsp;›</strong></a> steht der Fokus insbesondere auf der Auswahl der richtigen Pflanzen für euren Balkon. Möchtet ihr möglichst viele Nutzpflanzen, zeigen wir euch, wie Ihr auf kleinem Raum effizient und platzsparend Beete anlegen könnt. Außerdem schauen wir auf Themen wie den Wasser- und Lichtbedarf, die richtige Erde, den richtigen Dünger und den richtigen Standort. Halbschatten ist schließlich ein Begriff mit Interpretationsspielraum. Außerdem sagen wir euch wann ihr mit der Saat beginnen solltet, wann der richtige Zeitpunkt zum Auspflanzen und zur Ernte gekommen ist. 
+                In der Rubrik <a href="/plants/balkon&terasse/" title="Balkon & Terasse"><strong>"Balkon & Terasse"&nbsp;›</strong></a> steht der Fokus insbesondere auf der Auswahl der richtigen Pflanzen für euren Balkon. Möchtet ihr möglichst viele Nutzpflanzen, zeigen wir euch, wie Ihr auf kleinem Raum effizient und platzsparend Beete anlegen könnt. Außerdem schauen wir auf Themen wie den Wasser- und Lichtbedarf, die richtige Erde, den richtigen Dünger und den richtigen Standort. Halbschatten ist schließlich ein Begriff mit Interpretationsspielraum. Außerdem sagen wir euch wann ihr mit der Saat beginnen solltet, wann der richtige Zeitpunkt zum Auspflanzen und zur Ernte gekommen ist. 
 
-        <a href="/plants/fuerDenBalkon/" title="Balkon & Terasse"><strong>Read More&nbsp;›</strong></a>
+        <a href="/plants/balkon&terasse/" title="Balkon & Terasse"><strong>Read More&nbsp;›</strong></a>
       </p>
       <p>
       <p class="subheadline"><span class="subheader">Indoor</span></p>

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Green Urban Lifecycle</title>
-	<updated>2020-06-06T00:44:50+02:00</updated>
+	<updated>2020-06-07T16:01:51+02:00</updated>
 
 	<subtitle>Green Urban Lifecycle soll als Anlaufpunkt für den Stadtmenschen ohne Grünen Daumen dienen, der Lust auf ein paar Pflanzen hat oder einfach nette Geschichten darüber lesen möchte.</subtitle>
 
@@ -26,6 +26,43 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/plants/balkon&terasse/vertikalerGarten/</id>
+			<title>Vertikales Gärtnern</title>
+			<link href="http://localhost:4000/plants/balkon&terasse/vertikalerGarten/" rel="alternate" type="text/html" title="Vertikales Gärtnern" />
+			<updated>2020-06-07T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>phlow</name>
+					
+					
+					
+				</author>
+			
+			<summary>Auf dem Balkon oder Terasse haben wir im Vergleich zum Garten deutlich weniger Platzangebot. Wer trotzdem Erträge oder Artenvielfalt maximieren möchte, kann über vertikalen Anbau von Pflanzen platzsparend, ertrags- und abwechslungsreich eine große Anzahl unterschiedlicher Pflanzen anbauen.</summary>
+			<content type="html" xml:base="http://localhost:4000/plants/balkon&terasse/vertikalerGarten/"></content>
+
+			
+				<category term="plants" />
+			
+				<category term="balkon&amp;terasse" />
+			
+			
+				<category term="blog" />
+			
+				<category term="content" />
+			
+				<category term="post" />
+			
+				<category term="post format" />
+			
+
+			<published>2020-06-07T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/composting/wurmfarm/Wurmfarm_derAnfang/</id>
@@ -141,9 +178,9 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/chili/</id>
+			<id>http://localhost:4000/plants/balkon&terasse/chili/</id>
 			<title>Chilis auf dem Balkon und im Garten</title>
-			<link href="http://localhost:4000/chili/" rel="alternate" type="text/html" title="Chilis auf dem Balkon und im Garten" />
+			<link href="http://localhost:4000/plants/balkon&terasse/chili/" rel="alternate" type="text/html" title="Chilis auf dem Balkon und im Garten" />
 			<updated>2020-05-27T00:00:00+02:00</updated>
 
 			
@@ -157,13 +194,21 @@ Eine weitere Methode ist die Überwässerung der Chiliplanze. Drohender Schimmel
 				</author>
 			
 			<summary>Hier zeigen wir euch alles zum Chili Anbau. Welches ist die richtige Sorte, der richtige Standort und wie holt ihr das Maximum aus eurer Pflanze.</summary>
-			<content type="html" xml:base="http://localhost:4000/chili/"></content>
+			<content type="html" xml:base="http://localhost:4000/plants/balkon&terasse/chili/"></content>
 
 			
-				<category term="" />
+				<category term="plants" />
 			
-				<category term="" />
+				<category term="balkon&amp;terasse" />
 			
+			
+				<category term="blog" />
+			
+				<category term="content" />
+			
+				<category term="post" />
+			
+				<category term="post format" />
 			
 
 			<published>2020-05-27T00:00:00+02:00</published>
@@ -982,67 +1027,6 @@ image:
 			
 
 			<published>2015-02-10T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/design/header-logo-only/</id>
-			<title>Header With Logo Only</title>
-			<link href="http://localhost:4000/design/header-logo-only/" rel="alternate" type="text/html" title="Header With Logo Only" />
-			<updated>2014-10-09T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>phlow</name>
-					
-					
-					
-				</author>
-			
-			<summary>Feeling Responsive allows you to use all kinds of headers. This is the default mode. It shows a header just with your logo on the standard background.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/header-logo-only/">&lt;p&gt;No front matter code needed.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="design" />
-			
-				<category term="background color" />
-			
-				<category term="header" />
-			
-
-			<published>2014-10-09T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
