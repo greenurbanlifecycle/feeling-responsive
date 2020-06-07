@@ -40,8 +40,10 @@
   dropdown:
   - title: "Türkisches Frühstück"
     url: "/food/tuerkischesFruehstueck/"
-  - title: "Aus dem Garten"
+  - title: "Frisch aus dem Garten"
     url: "/food/ausdemGarten/"
+  - title: "Kräuter, Gewürze & Öle"
+    url: "/food/kraeuterGewuerzeOele/"
 
 
 #- title: "Do it yourself"

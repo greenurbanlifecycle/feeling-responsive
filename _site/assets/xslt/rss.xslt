@@ -287,7 +287,12 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/food/ausdemGarten/">Aus dem Garten</a></li>
+                      <li><a  href="http://localhost:4000/food/ausdemGarten/">Frisch aus dem Garten</a></li>
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/food/kraeuterGewuerzeOele/">Kräuter, Gewürze &amp; Öle</a></li>
                     
                   </ul>
 
