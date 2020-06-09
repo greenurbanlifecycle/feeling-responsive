@@ -11,6 +11,7 @@ breadcrumb: true
 categories:
     - plants
     - balkon&terasse
+    - nutzpflanzen
 tags:
     - blog
     - content

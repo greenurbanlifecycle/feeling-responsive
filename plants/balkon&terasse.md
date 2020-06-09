@@ -2,8 +2,8 @@
 layout: page-fullwidth
 subheadline:  "Grünes Paradies auf engstem Raum"
 title:  "Balkon & Terasse"
-teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
-meta_teaser: "Was braucht ihr um mit eurer eigenen Wurmfarm loszulegen? Wann ist es den Würmern zu heiß und wie könnt ihr sie im Winter schützen. Was fressen die Würmer und was sollte der Wurmfarm besser fern bleiben? An dieser Stelle wollen wir euch einen möglichst kompakten Überblick zum Thema Wurmfarm geben und euch mit allen Informationen versorgen, die ihr zum loslegen benötigt."
+teaser: "Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter"
+meta_teaser: "Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter"
 breadcrumb: true 
 categories:
     - plants
@@ -30,11 +30,36 @@ gallery:
     - image_url: gallery-balkon-8.jpg
       caption: #
 ---
-><span class="teaser">The greatest fine art of the future will be making of a comfortable living from a small piece of land.</span> <cite>[Abraham Lincoln][1]</cite>
+
+<div class="button-bar">
+ <ul class="button-group radius">
+    <li><a href="/plants/" class="button" style="background: rgb(3, 138, 64);">Plants</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <button data-dropdown="drop" aria-controls="drop" aria-expanded="false" class="button dropdown" style="background: rgb(97, 233, 131);">Balkon & Terasse</button><br>
+  <ul id="drop" data-dropdown-content class="f-dropdown" role="menu" aria-hidden="false" tabindex="-1">
+            <li><a href="/plants/balkon&terasse/nutzpflanzen/">Nutzpfanzen</a></li>
+            <li><a href="/plants/balkon&terasse/bluehpflanzen/">Blühpflanzen</a></li>
+            <li><a href="#">Exoten</a></li>
+            <li><a href="#">Bewässerung</a></li>
+            <li><a href="#">Do it yourself</a></li>
+  </ul>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/plants/indoor/" class="button" style="background: rgb(215, 223, 219);">Indoor</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/plants/garten/" class="button" style="background: rgb(215, 223, 219);">Garten</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/plants/exoten/" class="button" style="background: rgb(215, 223, 219);">Exoten</a></li>
+ </ul>
+</div>
+
+  ><span class="teaser">The greatest fine art of the future will be making of a comfortable living from a small piece of land.</span> <cite>[Abraham Lincoln][1]</cite>
 <!--more-->
 
 {% include gallery %}
-
 
 ## Portfolio
 Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
@@ -46,11 +71,11 @@ Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhal
   <div class="row">
     <div class="small-12 columns b60">
       <p>
-      <p class="subheadline"><span class="subheader">Chilis</span></p>
-      <a href="/plants/balkon&terasse/chili/" title="Chilis"><img src="\images\Numex_Twilight_Bluete_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
+      <p class="subheadline"><span class="subheader">Chili, Paprika, Tomate & Co</span></p>
+      <a href="/plants/balkon&terasse/nutzpflanzen/" title="Chili, Paprika, Tomate & Co"><img src="\images\Numex_Twilight_Bluete_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        <a href="/plants/balkon&terasse/chili/" title="Chilis"><strong>Read More&nbsp;›</strong></a>
+        <a href="/plants/balkon&terasse/nutzpflanzen/" title="Chili, Paprika, Tomate & Co"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
   </div><!-- /.row -->
