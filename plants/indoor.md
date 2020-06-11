@@ -13,21 +13,21 @@ tags:
     - plants
     - indoor
 gallery:
-    - image_url: gallery-balkon-1.jpg
+    - image_url: gallery-indoor-1.jpg
       caption: #
-    - image_url: gallery-balkon-2.jpg
+    - image_url: gallery-indoor-2.jpg
       caption: #
-    - image_url: gallery-balkon-3.jpg
+    - image_url: gallery-indoor-3.jpg
       caption: #
-    - image_url: gallery-balkon-4.jpg
+    - image_url: gallery-indoor-4.jpg
       caption: #
-    - image_url: gallery-balkon-5.jpg
+    - image_url: gallery-indoor-5.jpg
       caption: #
-    - image_url: gallery-balkon-6.jpg
+    - image_url: gallery-indoor-6.jpg
       caption: #
-    - image_url: gallery-balkon-7.jpg
+    - image_url: gallery-indoor-7.jpg
       caption: #
-    - image_url: gallery-balkon-8.jpg
+    - image_url: gallery-indoor-8.jpg
       caption: #
 ---
 
@@ -36,7 +36,7 @@ gallery:
     <li><a href="/plants/" class="button" style="background: rgb(3, 138, 64);">Plants</a></li>
  </ul>
  <ul class="button-group radius">
-  <li><a href="/plants/indoor/" class="button" style="background: rgb(215, 223, 219);">Balkon & Terasse</a></li>
+  <li><a href="/plants/balkon&terasse/" class="button" style="background: rgb(215, 223, 219);">Balkon & Terasse</a></li>
  </ul>
  <ul class="button-group radius">
   <button data-dropdown="drop" aria-controls="drop" aria-expanded="false" class="button dropdown" style="background: rgb(63, 192, 121);">Indoor</button><br>

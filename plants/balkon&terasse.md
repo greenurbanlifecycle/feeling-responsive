@@ -40,9 +40,9 @@ gallery:
   <ul id="drop" data-dropdown-content class="f-dropdown" role="menu" aria-hidden="false" tabindex="-1">
             <li><a href="/plants/balkon&terasse/nutzpflanzen/">Nutzpfanzen</a></li>
             <li><a href="/plants/balkon&terasse/bluehpflanzen/">Blühpflanzen</a></li>
-            <li><a href="#">Exoten</a></li>
-            <li><a href="#">Bewässerung</a></li>
-            <li><a href="#">Do it yourself</a></li>
+            <li><a href="/plants/exoten/">Exoten</a></li>
+            <li><a href="/plants/balkon&terasse/bewaesserung/">Bewässerung</a></li>
+            <li><a href="/doityourself/">Do it yourself</a></li>
   </ul>
  </ul>
  <ul class="button-group radius">
@@ -101,11 +101,11 @@ Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhal
   <div class="row">
     <div class="small-12 columns b60">
       <p>
-      <p class="subheadline"><span class="subheader">Olivenbäume</span></p>
-      <a href="/plants/exoten/olive/" title="Oliven"><img src="\images\Olive_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
+      <p class="subheadline"><span class="subheader">Palmen, Olivenbäume & Co</span></p>
+      <a href="/plants/exoten/" title="Exoten"><img src="\images\Olive_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
         Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        <a href="/plants/exoten/olive" title="Oliven"><strong>Read More&nbsp;›</strong></a>
+        <a href="/plants/exoten/" title="Exoten"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
   </div><!-- /.row -->
