@@ -13,84 +13,58 @@ tags:
     - plants
     - exoten
 image:
-   thumb: "gallery-example-1-thumb.jpg"
+   thumb: "gallery-exoten-1-thumb.jpg"
 gallery:
-    - image_url: gallery-example-1.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-2.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-3.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-4.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-5.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-6.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-7.jpg
-      caption: Great images by Unsplash.com
-    - image_url: gallery-example-8.jpg
-      caption: Great images by Unsplash.com
+    - image_url: gallery-exoten-1.jpg
+      caption: Eine Ananaspflanze lässt sich mit großer Aussicht auf Erfolg aus den Resten einer Ananas ziehen.
+    - image_url: gallery-exoten-2.jpg
+      caption: Farne
+    - image_url: gallery-exoten-4.jpg
+      caption: Aus dem Kern einer Mago lassen sich schöne Wohnungspflanzen ziehen
+    - image_url: gallery-exoten-3.jpg
+      caption: So sieht die Mangopflanze kurz nach erfolgreicher KEimung aus
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
+<!--more-->
+
+<div class="button-bar">
+ <ul class="button-group radius">
+    <li><a href="/plants/" class="button" style="background: rgb(3, 138, 64);">Plants</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/plants/balkon&terasse/" class="button" style="background: rgb(215, 223, 219);">Balkon & Terasse</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/plants/indoor/" class="button" style="background: rgb(215, 223, 219);">Indoor</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/plants/garten/" class="button" style="background: rgb(215, 223, 219);">Garten</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <button data-dropdown="drop" aria-controls="drop" aria-expanded="false" class="button dropdown" style="background: rgb(29, 129, 109);">Exoten</button><br>
+  <ul id="drop" data-dropdown-content class="f-dropdown" role="menu" aria-hidden="false" tabindex="-1">
+            <li><a href="/plants/exoten">Winterharte Exoten</a></li>
+            <li><a href="/plants/exoten">Regrowing</a></li>
+  </ul>
+ </ul>
+</div>
+
+  ><span class="teaser">Find a quote?.</span> <cite>[]</cite>
 <!--more-->
 
 {% include gallery %}
 
 
-## How to embed a gallery
+## Portfolio
+Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
 
-`{% raw %}{% include gallery %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
+### Winterharte Exoten
+<nav class="breadcrumbs" style="background: rgb(224, 211, 25);">
+</nav>
 
+### Regrowing
+<nav class="breadcrumbs" style="background: rgb(236, 176, 10);">
+</nav>
 
-### Step 1
-
-1. Make two images: a thumbnail and a big image.
-2. Name the thumbnail *gallery-image-thumb.jpg* and...
-3. ...name the big *gallery-image.jpg*.
-4. Place them in the *images*-folder.
-
-
-### Step 2
-
-Define the big version in frontmatter,  
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-~~~
-
-If you like captions, give each image a caption:
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-       caption: Starting Page with huge One Logo
-~~~
-
-### Step 3
-
-Add the include whereever you want in your content with `{% raw %}{% include gallery %}{% endraw %}`.
-
-{% include alert info='Have a look at this example-entry. And have a look into the images-folder. :)' %}
-
-
-
-
-
-
-
-
-
-
-
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}
-
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}{{ site.baseurl }}/design/page/
- [4]: {{ site.url }}{{ site.baseurl }}/design/page-fullwidth/
+ [1]: #
+ 
