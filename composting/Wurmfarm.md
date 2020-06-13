@@ -10,19 +10,19 @@ header:
 gallery:
     - image_url: FWB_4.jpg
       caption: Meine erste Wurmfarm - ein bisschen in die Jahre gekommen
-      caption_url: "/composting/Wurmfarm/"
+      caption_url: "/composting/wurmfarm/"
     - image_url: FWB_3.jpg
       caption: Frische Küchenabfälle in der oberen Ebene
-      caption_url: "/composting/Wurmfarm/"
+      caption_url: "/composting/wurmfarm/"
     - image_url: FWB_2.jpg
       caption: Fertiger Humus in der unteren Ebene
-      caption_url: "/composting/Wurmfarm/"
+      caption_url: "/composting/wurmfarm/"
     - image_url: FWB_5.jpg
       caption: In der unteren Schale sammelt sich Wurmtee
-      caption_url: "/composting/Wurmfarm/"
+      caption_url: "/composting/wurmfarm/"
     - image_url: FWB_6.jpg
       caption: Die fleißigen Helfer in Aktion
-      caption_url: "/composting/Wurmfarm/"
+      caption_url: "/composting/wurmfarm/"
 ---
 <div class="button-bar">
  <ul class="button-group radius">

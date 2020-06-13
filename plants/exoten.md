@@ -20,7 +20,7 @@ gallery:
     - image_url: gallery-exoten-2.jpg
       caption: Farne
     - image_url: gallery-exoten-4.jpg
-      caption: Aus dem Kern einer Mago lassen sich schöne Wohnungspflanzen ziehen
+      caption: Aus dem Kern einer Mango lassen sich schöne Wohnungspflanzen ziehen
     - image_url: gallery-exoten-3.jpg
       caption: So sieht die Mangopflanze kurz nach erfolgreicher KEimung aus
 ---
