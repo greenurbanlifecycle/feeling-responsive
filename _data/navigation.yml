@@ -32,6 +32,8 @@
   dropdown:
   - title: "Wurmfarm"
     url: "/composting/Wurmfarm"
+  - title: "Bokashi"
+    url: "/composting/Bokashi"
 
 
 - title: "Food"

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 61 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 62 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,22 @@
 	<url>
 	<loc>http://localhost:4000/plants/indoor/Anzucht/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/composting/Bokashi/</loc>
+	
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +52,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/indoor/Pflanze_Raum/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,7 +67,7 @@
 	<url>
 	<loc>http://localhost:4000/composting/wurmfarm/Wuermer/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -67,7 +82,7 @@
 	<url>
 	<loc>http://localhost:4000/composting/Wurmfarm/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -82,7 +97,7 @@
 	<url>
 	<loc>http://localhost:4000/composting/wurmfarm/Wurmfarm_derAnfang/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -97,7 +112,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,7 +129,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/food/ausdemGarten/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/balkon&terasse/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +176,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/balkon&terasse/bewaesserung/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +191,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/balkon&terasse/bluehpflanzen/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +206,7 @@
 	<url>
 	<loc>http://localhost:4000/changelog/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +221,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/balkon&terasse/nutzpflanzen/chili/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +236,7 @@
 	<url>
 	<loc>http://localhost:4000/comments/comments/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +251,7 @@
 	<url>
 	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +266,7 @@
 	<url>
 	<loc>http://localhost:4000/design/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +281,7 @@
 	<url>
 	<loc>http://localhost:4000/documentation/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +296,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/exoten/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +311,7 @@
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -311,7 +326,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/feedback/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -326,7 +341,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/garten/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -341,7 +356,7 @@
 	<url>
 	<loc>http://localhost:4000/getting-started/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -356,7 +371,7 @@
 	<url>
 	<loc>http://localhost:4000/headers/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -371,37 +386,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/plants/</loc>
-	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/food/</loc>
-	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -416,7 +401,37 @@
 	<url>
 	<loc>http://localhost:4000/composting/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/food/</loc>
+	
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/plants/</loc>
+	
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -431,22 +446,7 @@
 	<url>
 	<loc>http://localhost:4000/doityourself/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/comments/</loc>
-	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -461,7 +461,22 @@
 	<url>
 	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/comments/</loc>
+	
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -476,7 +491,7 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -491,7 +506,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/indoor/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -506,7 +521,7 @@
 	<url>
 	<loc>http://localhost:4000/info/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -521,22 +536,7 @@
 	<url>
 	<loc>http://localhost:4000/food/kraeuterGewuerzeOele/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/nutzpflanzen/</loc>
-	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -551,7 +551,22 @@
 	<url>
 	<loc>http://localhost:4000/plants/balkon&terasse/nutzpflanzen/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/nutzpflanzen/</loc>
+	
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -566,7 +581,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/exoten/olive/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -581,7 +596,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/plants_ti/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -596,7 +611,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/plants_title/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -611,7 +626,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/portfolio/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -626,7 +641,7 @@
 	<url>
 	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -641,7 +656,7 @@
 	<url>
 	<loc>http://localhost:4000/roadmap/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -656,7 +671,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -675,7 +690,7 @@
 	<url>
 	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -690,7 +705,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -707,7 +722,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/posts/tomaten/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -722,7 +737,7 @@
 	<url>
 	<loc>http://localhost:4000/food/tuerkischesFruehstueck/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -737,7 +752,7 @@
 	<url>
 	<loc>http://localhost:4000/composting/wurmfarm/ueberblick/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -752,7 +767,7 @@
 	<url>
 	<loc>http://localhost:4000/plants/balkon&terasse/vertikalerGarten/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -767,7 +782,7 @@
 	<url>
 	<loc>http://localhost:4000/warum/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -782,7 +797,7 @@
 	<url>
 	<loc>http://localhost:4000/assets/css/style.css</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -797,7 +812,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page2/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -812,7 +827,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page3/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -827,7 +842,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page4/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -842,7 +857,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page5/</loc>
 	
-		<lastmod>2020-06-12T09:53:22+02:00</lastmod>
+		<lastmod>2020-06-13T10:16:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

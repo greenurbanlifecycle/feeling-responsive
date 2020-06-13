@@ -6,7 +6,7 @@ teaser: "Eine Wurmfarm bietet euch die Möglichkeit eure Küchenabfälle zu ents
 categories:
     - design
 header:
-   image_fullwidth: wormbox_header.jpg
+   image_fullwidth: Wuermer_header.jpg
 gallery:
     - image_url: FWB_4.jpg
       caption: Meine erste Wurmfarm - ein bisschen in die Jahre gekommen
@@ -24,6 +24,22 @@ gallery:
       caption: Die fleißigen Helfer in Aktion
       caption_url: "/composting/Wurmfarm/"
 ---
+<div class="button-bar">
+ <ul class="button-group radius">
+    <li><a href="/composting/" class="button" style="background: rgb(218, 137, 84);">Composting</a></li>
+ </ul>
+ <ul class="button-group radius">
+  <button data-dropdown="drop" aria-controls="drop" aria-expanded="false" class="button dropdown" style="background: rgb(136, 69, 25);">Wurmfarm</button><br>
+  <ul id="drop" data-dropdown-content class="f-dropdown" role="menu" aria-hidden="false" tabindex="-1">
+            <li><a href="/composting/wurmfarm/Wurmfarm_derAnfang/">Meine erste Wurmfarm</a></li>
+            <li><a href="/composting/wurmfarm/ueberblick/">Ein Überblick</a></li>
+            <li><a href="/composting/wurmfarm/Wuermer/">Die richtigen Würmer</a></li>
+  </ul>
+ </ul>
+ <ul class="button-group radius">
+  <li><a href="/composting/bokashi/" class="button" style="background: rgb(215, 223, 219);">Bokashi</a></li>
+ </ul>
+</div>
 ><span class="teaser">It may be doubted whether there are many other animals which have played so important a part in the history of the world, as have these lowly organized creatures.</span> <cite>[Charles Darwin, 1881][1]</cite>
 
 ## Mehr zum Thema Wurmfarm
