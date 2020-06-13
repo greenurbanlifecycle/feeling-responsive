@@ -1,12 +1,18 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Email, Youtube,..."
+subheadline: "Email, Youtube,..."
+teaser: "Wenn ihr Fragen habt, findet ihr hier unsere Kontaktinformationen."
 permalink: "/contact/"
+header:
+   image_fullwidth: Header_contact_GULC.jpg
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+### Email
+Wenn ihr Anregungen, Wünsche oder Feedback habt, könnt ihr uns gerne per Email kontaktieren. Wir werden versuchen euch schnellstmöglich zu antworten.
 
+Unsere Email Adresse lautet: **greenurbanlifecycle@gmail.com**
 
- [1]: http://www.wufoo.com/
+### Youtube
+Sobald wir die ersten Inhalte auf Youtube veröffentlicht haben, findet ihr an dieser Stelle den Link zum Youtube Channel.
+

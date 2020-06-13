@@ -71,6 +71,8 @@ Um euch eine schnelle Übersicht zu geben haben wir ein paar Bilder in der Galer
 
 {% include gallery %}
 
+# Rezepte
+Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
 ## Überblick
 <nav class="breadcrumbs" style="background: rgb(25, 29, 224);">
 </nav>
@@ -85,7 +87,17 @@ Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhal
 
 
 ### Menemen
-Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+  <div class="row">
+    <div class="small-12 columns b60">
+      <p>
+      <p class="subheadline"><span class="subheader">Eier, Tomate & Paprika</span></p>
+      <a href="/food/tuerkischesFruehstueck/menemen/" title="Menemen"><img src="\images\Menemen_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
+        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+        <a href="/food/tuerkischesFruehstueck/menemen/" title="Menemen"><strong>Read More&nbsp;›</strong></a>
+      </p>
+    </div><!-- /.small-12.columns -->
+  </div><!-- /.row -->
 
 ## Süßes
 <nav class="breadcrumbs" style="background: rgb(233, 141, 213);">

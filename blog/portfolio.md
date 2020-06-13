@@ -36,9 +36,9 @@ image:
       <p>
       <p class="subheadline"><span class="subheader">Indoor</span></p>
       <a href="/plants/indoor/" title="Indoor"><img src="\images\Indoor_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        <a href="/plants/indoor/" title="Indoor"><strong>Read More&nbsp;›</strong></a>
+
+                In der Rubrik <a href="/plants/indoor/" title="Indoor"><strong>"Indoor"&nbsp;›</strong></a> geht es in erster Linie darum euch Empfehlungen für die Pflanzenauswahl innerhalb der Wohnung mit an die Hand zu geben. Welche Pflanze passt in welches Zimmer, wieviel Licht, Wasser und Pflege wird benötigt. Wir möchten, dass der Frust über unglückliche Pflanzen sowohl euch als auch euren Pflanzen erspart bleibt und ihr euch über an einem satten Grün in der Wohnung erfreuen könnt. Außerdem widmen wir uns dem Thema Pflanzen Auf- und Anzucht. Züchtet man eine Pflanze aus einem winzigen Samen an und sieht man ihr bei jedem Entwicklungsschritt zu, so baut man eine besondere Beziehung zu ihr auf.
+      <a href="/plants/indoor/" title="Indoor"><strong>Read More&nbsp;›</strong></a>
       </p>
       <p>
       <p class="subheadline"><span class="subheader">Garten</span></p>

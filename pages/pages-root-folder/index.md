@@ -20,8 +20,8 @@ widget2:
 widget3:
   title: "Wer & Was sind wir?"
   url: '/contact/'
-  image: Logo1_2.png
-  text: 'Als Ingenieure sind wir in erster Linie Software Entwickler und Gärtnern stellt einen Ausgleich zu den langen Tagen vor unseren Monitoren dar. Auch wenn unsere Ausbildung nichts mit Gärtnern zu tun hat, haben wir gelernt Dinge zu hinterfragen und teils kreative Lösungen für Probleme zu suchen. Wir lieben es zu kochen, verrückte Dinge auszuprobieren und Probleme zu lösen. Auf diese Weise möchten wir unsere Ideen und Erfahrungen mit euch teilen. '
+  image: Logo1_3.png
+  text: 'Als Ingenieure sind wir in erster Linie Software Entwickler und Gärtnern stellt einen Ausgleich zu den langen Tagen vor unseren Monitoren dar. Auch wenn unsere Ausbildung nichts mit Gärtnern zu tun hat, haben wir gelernt Dinge zu hinterfragen und teils kreative Lösungen für Probleme zu suchen. Wir lieben es zu kochen, verrückte Dinge auszuprobieren und uns im Grünen aufzuhalten. Auf diese Weise möchten wir unsere Ideen und Erfahrungen mit euch teilen. '
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,9 +33,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: http://tinyletter.com/GULC
   text: Wollt ihr auf dem Laufenden bleiben? Hier gehts zum Newsletter... ›
-  style: alert
+  style: standard
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
