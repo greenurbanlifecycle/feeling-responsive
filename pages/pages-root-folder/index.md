@@ -11,17 +11,17 @@ widget1:
   title: "Was machen wir?"
   url: "/blog/portfolio/"
   image: Ueberblick.jpg
-  text: 'In diesem Blog berichten wir über das grüne Leben in der Stadt und wie ihr auch ohne grünen Daumen erfolgreich auf kleinstem Raum Obst und Gemüse anbauen könnt. Wir erklären wie ihr günstig Kompost & Dünger herstellt und mit Problemen wie der richtigen Standortwahl, Ungeziefer und Überwinterung umgeht. Außerdem geben wir euch Tipps wie ihr eure Ernte schnell und einfach zu leckeren, saisonalen Gerichten zubereitet. Und dazu Dinge zum Nachmachen, Nachbasteln und ausprobieren. Viel Spaß:-)'
+  text: 'In diesem Blog berichten wir über das grüne Leben in der Stadt und wie ihr auch ohne grünen Daumen erfolgreich auf kleinstem Raum Obst und Gemüse anbauen könnt. Dafür erklären wir, wie ihr günstig Kompost & Dünger herstellt und mit Problemen wie der richtigen Standortwahl, Ungeziefer und Überwinterung umgeht. Außerdem geben wir euch reichlich Tipps zur schnellen und leckeren Zubereitung eurer Ernte zu saisonalen Gerichten. Und dazu noch das ein oder andere zum Nachmachen, Nachbasteln und Ausprobieren. Viel Spaß! :-)'
 widget2:
   title: "Warum noch ein Blog?"
   url: '/warum/'
   image: GULC_why.png
-  text: 'Was ist "Halbschatten"? Was heißt "nicht zu viel gießen" oder "mäßig gießen"? Weil wir selber unpräzise Angaben aus persönlichen und beruflichen Wegen verabscheuen, wollen wir in diesem Blog möglichst verständliche und deutliche Tipps geben, wie erfolgreich etwas wächst, ohne schon als Botaniker auf die Welt gekommen zu sein. Dabei sollte ebenfalls die humoristische Komponente auch nicht zu kurz kommen.'
+  text: 'Was ist "Halbschatten"? Was heißt "nicht zu viel gießen" oder "mäßig gießen"? Weil wir selber unpräzise Angaben aus persönlichen und beruflichen Wegen verabscheuen, wollen wir in diesem Blog möglichst verständliche und deutliche Tipps geben, wie erfolgreich etwas wächst, ohne schon als Botaniker auf die Welt gekommen zu sein. Dies alles versuchen wir euch, kurz und knapp, mit einer Prise Pfeffer garniert auf dem Silbertablett zu servieren - Bon Appétit!'
 widget3:
   title: "Wer & Was sind wir?"
   url: '/contact/'
   image: Logo1_3.png
-  text: 'Als Ingenieure sind wir in erster Linie Software Entwickler und Gärtnern stellt einen Ausgleich zu den langen Tagen vor unseren Monitoren dar. Auch wenn unsere Ausbildung nichts mit Gärtnern zu tun hat, haben wir gelernt Dinge zu hinterfragen und teils kreative Lösungen für Probleme zu suchen. Wir lieben es zu kochen, verrückte Dinge auszuprobieren und uns im Grünen aufzuhalten. Auf diese Weise möchten wir unsere Ideen und Erfahrungen mit euch teilen. '
+  text: 'Als Ingenieure sind wir in erster Linie Software Entwickler und den meist einseitigen Alltag vor unseren Monitoren versuchen wir durch Gärtnern auszugleichen. Auch wenn Pflanzen weiß Gott nicht unser natürliches Habitat sind, haben wir gelernt, Dinge zu hinterfragen und teils kreative Lösungen für Probleme zu suchen. Wir lieben es zu kochen, verrückte Dinge auszuprobieren und uns im Grünen aufzuhalten. Auf diese Weise möchten wir unsere Ideen und Erfahrungen mit euch teilen. '
 #
 # Use the call for action to show a button on the frontpage
 #
