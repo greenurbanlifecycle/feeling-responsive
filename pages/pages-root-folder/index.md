@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Wer & Was sind wir?"
   url: '/contact/'
-  image: Logo1_3.png
+  image: Logo1_3.PNG
   text: 'Als Ingenieure sind wir in erster Linie Software Entwickler und den meist einseitigen Alltag vor unseren Monitoren versuchen wir durch Gärtnern auszugleichen. Auch wenn Pflanzen weiß Gott nicht unser natürliches Habitat sind, haben wir gelernt, Dinge zu hinterfragen und teils kreative Lösungen für Probleme zu suchen. Wir lieben es zu kochen, verrückte Dinge auszuprobieren und uns im Grünen aufzuhalten. Auf diese Weise möchten wir unsere Ideen und Erfahrungen mit euch teilen. '
 #
 # Use the call for action to show a button on the frontpage
