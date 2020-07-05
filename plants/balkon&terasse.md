@@ -61,10 +61,6 @@ gallery:
 
 {% include gallery %}
 
-## Portfolio
-Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-
 ### Nutzpflanzen
 <nav class="breadcrumbs" style="background: rgb(63, 192, 121);">
 </nav>
