@@ -25,7 +25,7 @@ gallery:
     - image_url: TF_3.jpg
       caption: Die Auswahl kann überwältigend sein.
     - image_url: TF_4.jpg
-      caption: Wo gibt es so frischen Honig?
+      caption: Menemen Sucuklu
     - image_url: TF_5.jpg
       caption: Great images by Unsplash.com
 ---
