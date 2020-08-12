@@ -28,6 +28,7 @@ image:
     caption_url:
 ---
 
+Es gibt viele gute Gründe Chilis auf dem Balkon, der Terasse oder im Garten zu pflanzen.
 
 
 
