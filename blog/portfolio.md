@@ -61,16 +61,21 @@ image:
     <div class="small-12 columns b60">
       <h2><a href="/composting/">Composting</a></h2>
       <p>
-      Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-      Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+      Hier dreht sich alles um das Thema <a href="/composting/" title="Composting"><strong>"Composting"&nbsp;›</strong></a> in der Stadt. Wie könnt ihr in einer Wohnung, im Haus, auf dem Balkon oder im Kleingarten nahezu 100 % eurer organischen Reste verarbeiten und anstatt sie über die Biotonne oder im schlimmsten Fall über den Restmüll, in etwas wertvolles für Pflanzen und Natur transformieren. Wir zeigen euch Ideen wie ihr euren eigenen Dünger herstellen könnt und welche Konzepte entsprechend des Platzbedarfes und der anfallenden Reste zu euch passen. Dabei wollen wir neben reinen Informationen unsere Erfahrungen mit euch teilen.
       <p class="subheadline"><span class="subheader">Wurmfarm</span></p>
         <a href="/composting/Wurmfarm/" title="Wurmfarm"><img src="\images\Wurmfarm_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
 
-                Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter   Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-                Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter 
+                Eine Wurmfarm bietet ein in sich gerschlossenes System, welches flexibel an den zur Verfügung stehenden Platz angepasst werden kann. Nach der Anschaffung eines Containers und den fleißigen Helfern, fallen kaum Kosten an. Die Wartung ist recht einfach und erfordert nicht viel Zeit. Außerdem sind erste Erfolge recht schnell sichtbar. Die Würmer verwandeln einen großen Anteil anfallender Küchenreste in kurzer Zeit in Wurmkompost, der eine hervorragende, nährstoffreiche Zugabe zur Pflanzerde darstellt und Wurmtee, der als Flüssigdünger dem Gießwasser beigemischt werden kann. Wir zeigen euch alles was ihr zum Start einer eigenene Wurmfarm benötigt. Welches ist der richtige Container, das richtige Futter, der richtige Standort, die richtigen Würmer und vieles mehr...
 
-        <a href="/plants/Wurmfarm/" title="Für den Balkon"><strong>Read More&nbsp;›</strong></a>
+        <a href="/composting/Wurmfarm/" title="Wurmfarm"><strong>Read More&nbsp;›</strong></a>
       </p>
+      <p>
+      <p class="subheadline"><span class="subheader">Bokashi</span></p>
+      <a href="/composting/Bokashi/" title="Bokashi"><img src="\images\Bokashi_teaser.jpg" class="alignleft" width="120" height="120" alt="Blog of G.U.L.C."></a>
+        Wie bei einer Wurmfarm könnt ihr mit einem Bokashi Eimer auf kleinstem Raum Bio Abfälle in Kompost umwandeln. Mit Hilfe von aktiven Mikroorganismen geht dies denkbar einfach und dazu in Rekordzeit. Der Prozess ist dabei keine Kompostierung im eigentlich Sinne, da die Umwandlung der organischen Reste in Kompost nicht durch eine Reaktion mit Luft erfolgt. In einem Bokashi Eimer kommt es zu einer anaeroben Fermentation, da der Eimer komplett luftdicht schließt. Dies hält unerwünschte Gerüche im Eimer und ungebetene "Gäste" draußen. Wer also nach einer Möglichkeit sucht im Haus zu kompostieren, der sollte hier genauer hinschauen.
+        <a href="/composting/Bokashi/" title="Bokashi"><strong>Read More&nbsp;›</strong></a>
+      </p>
+
     </div><!-- /.small-12.columns -->
   </div><!-- /.row -->
 
