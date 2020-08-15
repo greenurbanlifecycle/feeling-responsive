@@ -71,15 +71,20 @@ Der Start einer eigenen Wurmfarm ist denkbar einfach. Wichtig sind im Wesentlich
 Stellt den Lebensraum für eure Würmer dar und kann ein Behältnis aus Holz. Metall, Plastik oder Styropor sein. Wichtig ist in erster Linie, dass der Container Dunkelheit bereitstellt und in der Lage ist, Feuchtigkeit zu speichern. Es gibt sehr unterschiedliche Konzepte von Kisten zu stapelbaren Boxen. Wichtig ist immer, dass ein guter Sauerstofffluss ermöglicht wird. Daher bieten sich Konzepte mit großer Oberfläche, aber nicht zu stark verdichtetem Material an.
 
 **2. Die richtigen Würmer:** <br>
-Die Würmer stellen den wichtigsten Aspekt einer funktionierenden Wurmfarm dar. Würmer für den Eigenbedarf können online erworben werden und per Post verschickt werden. Für meine erste Wurmfarm habe ich Würmer aus dem Garten gesammelt und in einem Zoogeschäft kleinere Mengen Angelwürmer vor dem sicheren Tod bewahrt. 
+Die Würmer stellen den wichtigsten Aspekt einer funktionierenden Wurmfarm dar. Würmer für den Eigenbedarf können online erworben und per Post verschickt werden. Für meine erste Wurmfarm habe ich Würmer aus dem Garten gesammelt und in einem Zoogeschäft kleinere Mengen Angelwürmer vor dem sicheren Tod bewahrt. Die Würmer, die im Garten unterwegs sind, stellen aber nicht unbedingt die beste Wahl für einen effektiven Komposter dar. Gut geeignet sind Kompostwürmer (*Eisenia fetida*) und rote Waldregenwürmer (*Lumbricus rubellus*)
 
 **3. Auswahl der Umgebung:** <br>
+Die Umgebung der Wurmfarm sollte unterschiedliche Faktoren berücksichtigen. Würmer reagieren empflindlich auf extreme Temperaturen und sollten sowohl vor extremer Hitze als auch starkem Frost geschützt werden. Dies ist insbesondere wichtig, wenn die Wurmfarm draußen platziert werden soll. Im Sommer sollte außreichend Schatten vorhanden sein, im Winter kann die Wurmfarm aufgrund der kompakten Größe in einen Keller, eine Garage oder ein Gewächshaus umziehen. Da Würmer eine gute Luftzufuhr benötigen, darf der Container im Winter nicht mit Luftpolsterfolie oder ähnlichem umwickelt werden. Bei Konzepten, die im Außenbereich in einem in sich nicht vollständig abgeschlossenen System umgesetzt werden, ist zudem auf den pH-Wert zu achten, da Würmer zu saure Böden langfristig nicht tolerieren.
 
 **4. Betrieb & Wartung der Wurmfarm:** <br>
+Der Betrieb der Wurmfarm ist denkbar einfach. Ihr startet mit euren Würmern, die ihr auf Einstreu aus zerrissenem Papier, Kokosfasern, Holzchips oder Laub in der Farm aussetzt. Die Anzahl der Würmer sollte sich dabei nach der zu erwarteten Menge an organischen Abfällen richten, reguliert sich aber in recht kurzer Zeit entsprechend des verfügbaren Platz- und Nahrungsangebotes von ganz allein. Nun gebt ihr eure organischen Abfälle in den Container und lasst die Würmer den Rest erledigen. Unten findet ihr eine Liste mit gut geeignetem Wurmfutter. Ihr könnt alle paar Tage etwas Futter in die Kiste geben, jedoch sollte die Menge nie so groß ausfallen, dass die vorhandenen Würmer sie nicht bewältigen können. Große Mengen an nicht verarbeitetem Material kann zu schlechten Gerüchen und unerwünschten Gästen führen. Bei der Wartung ist ansonsten nur darauf zu achten, dass die Belüftung der Wurmfarm sichergestellt ist und das der Inhalt feucht gehalten wird, da Würmer über ihre Haut atmen und für diesen Prozess feucht sein müssen. Zugaben wie Kalk oder Urgesteinsmehl können Würmer bei der Kokonbildung und somit Fortpflanzung unterstützen, sollten aber in Maßen ausgebracht werden. Außerdem sollten ihr alle paar Tage die angesammelte Flüssigkeit entnehmen.
 
-**5. Ausbringen des Wurmkomposts** <br>
+**5. Entnahme & Ausbringen des Wurmkomposts** <br>
+Wenn die Würmer die ersten Zugaben in fertigen Kompost umgesetzt haben, gilt es Würmer und Wurmhumus voneinander zu trennen. Je nach Umsetzung der Farm hilft es Futterbeigaben an einem anderen Ort als das fertig umgesetzte Material zu platzieren. Wird das Futter knapp, ziehen die Würmer in die nahrungsreichen Regionen des Containers, wodurch eine Trennnung automatisch erfolgt. Sollten doch noch vereinzelt Würmer im Kompost verbleiben, könnt ihr sie von Hand umsiedeln oder bei zeitnahem Einbringen des Wurmhumus in den Garten einfach vor Ort lassen. Der fertige Kompost kann direkt in die Pflanzerde gemischt werden. Dadurch wird die Planzerde aufgwertet, da der Wurmhumus reich an Nährstoffen ist und eine gute Nahrungsquelle für Mikroorganismen darstellt. Gleichzeitig kann der Wurmkompost Wasser speichern und eine langsame, konstante Nährstoffzufuhr bereitstellen.
+
 
 ## Was darf in die Wurmkiste?
+Eine enorm wichtige Frage. Um einen Wurmkompost so effizient wie möglich zu gestalten, spielen die organischen Zugaben eine wichtige Rolle. Einerseits dürfen sie den Würmern nicht schaden, andererseits sollen auch unerwünschte Gerüche bzw. ebenso unerwünschte "Gäste" der Wurmkiste fern bleiben. Unten findet ihr eine Tabelle mit organischen Materialien, die sich gut für den Einsatz innerhalb eines Wurmcontainers eignen, sowie Materialien die besser draußen bleiben.
 
 | <strong> Geeignetes Wurm Futter </strong> ||<strong>  NICHT geeignet </strong> |
 |:-----------|-|:---------------- |
@@ -101,8 +106,10 @@ Die Würmer stellen den wichtigsten Aspekt einer funktionierenden Wurmfarm dar. 
 |:-----------|-|:---------------- |
 
 ## Mehr zum Thema Wurmfarm
+Neben der kurzen Übersicht werden wir euch in den nächsten Monaten mehr Informationen, Erfahrungsberichte, Projekte und Anregungen auf G.U.L.C. bereitstellen. Wenn wir euer Interesse gewckt haben, findet ihr unten  mehr zum Thema Wurmfarm.
+
 * [Meine erste Wurmfarm][5]
-* [Die Wurmfarm auf einen Blick - alle Informationen die man zum Loslegen benötigt][3]
+* [Die Wurmfarm auf einen Blick - alle Informationen, die man zum Loslegen benötigt][3]
 * [Die richtigen Würmer][6]
 
 
