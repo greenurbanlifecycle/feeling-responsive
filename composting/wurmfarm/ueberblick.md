@@ -33,48 +33,53 @@ Inhalt
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 ## Warum eine Wurmfarm in der Stadt?
-Das Kompostieren von Küchenabfällen stellt eine einfache und kosteneffiziente Möglichkeit dar den Hausmüll zu reduzieren. Durch konsequente Mülltrennung kann ein wichtiger Beitrag zum Klimaschutz geleistet werden und so ist es in Deutschland seit 1990 gelungen, etwa [90 % der deponierten Müllmenge einzusparen] [1]. Eine gute Möglichkeit seine organischen Abfälle in der Stadt ohne jeglichen Aufwand zu entsorgen, stellt die grüne/ braune Tonne ("Biotonne") dar. Der Nachteil liegt einerseits in den nach Volumen und Abholfrequenz anfallenden Kosten sowie der Tatsache, dass der gewonnene Kompost nicht für die eigenen Pflanzen zur Verfügung steht. Um den Zukauf von Blumenerde zu reduzieren ist es möglich auch auf kleinem Raum unterschiedliche Methoden der Kompostierung anzuwenden und den dabei abfallenden Humus zu 100 % für die eigenen Grünpflanzen nutzen zu können. Eine Wurmfarm kann auf kleinem Raum sehr effizient anfallende Speisereste in Wurmhumus und Wurmtee überführen. Der Aufwand und die Unterhaltungskosten sind dabei gering und Erfolge schnell sichtbar. Da es zudem unterschiedliche Konzepte gibt können je nach Menge des Biomülls die Größe der Farm und die Anzahl der Würmer so skaliert werden, dass eine Wurmfarm grundsätzlich für jeden Haushalt geeignet ist.
+Das Kompostieren von Küchenabfällen stellt eine einfache und kosteneffiziente Möglichkeit dar den Hausmüll zu reduzieren. Durch konsequente Mülltrennung kann ein wichtiger Beitrag zum Klimaschutz geleistet werden und so ist es in Deutschland seit 1990 gelungen, etwa [90 % der deponierten Müllmenge einzusparen] [1]. Eine gute Möglichkeit seine organischen Abfälle in der Stadt ohne jeglichen Aufwand zu entsorgen, stellt die grüne/ braune Tonne ("Biotonne") dar. Der Nachteil liegt einerseits in den nach Volumen und Abholfrequenz anfallenden Kosten sowie der Tatsache, dass der gewonnene Kompost nicht für die eigenen Pflanzen zur Verfügung steht. Um den Zukauf von Blumenerde zu reduzieren ist es möglich auch auf kleinem Raum unterschiedliche Methoden der Kompostierung anzuwenden und den dabei abfallenden Humus zu 100 % für die eigenen Grünpflanzen nutzen zu können. Eine Wurmfarm kann auf kleinem Raum sehr effizient anfallende Speisereste in Wurmhumus und Wurmtee umwandeln. Der Aufwand und die Unterhaltungskosten sind dabei gering und Erfolge schnell sichtbar. Da es zudem unterschiedliche Konzepte gibt können je nach Menge des Biomülls die Größe der Farm und die Anzahl der Würmer so skaliert werden, dass eine Wurmfarm grundsätzlich für jeden Haushalt geeignet ist. Startersets können inklusiver Würmer bestellt werden. Mit etwas handwerklichem Geschick könnt ihr aus unterschiedlichen Materialien auch recht einfach Self-Made Kisten bauen, die zudem sehr konstengünstig sind.
 
-| Pros | Cons |
-|-----------|---------------- |
-|Platzsparend und individuell an den Bedarf anpassbar| Die Würmer brauchen ein gewisses Maß an Pflege|
-|-----------|---------------- |
-|Kann innen und außen betrieben werden| Die Würmer müssen im Sommer und Winter vor extremen Temperaturen geschützt werden|
-|-----------|---------------- |
-|Wurmtee und Wurmhumus|
-|-----------|---------------- |
-|Schnelle Kompostierung| 
-|-----------|---------------- |
-|Kosteneffizient|
-|-----------|---------------- |
-|Einfach aufzusetzen|
-|-----------|---------------- |
-|Gutes / Pädagogisch wertvolles Projekt|
-|-----------|---------------- |
+| <strong> Vorteile einer Wurmfarm </strong> ||<strong>  Nachteile einer Wurmfarm</strong> |
+|:-----------|-|:---------------- |
+|<span style="color:green">Platzsparend und individuell an die eigenen Wünsche anpassbar</span>|| <span style="color:red">Die Würmer brauchen ein gewisses Maß an Pflege</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Kann im Haus oder im Außenbereich betrieben werden</span>||  <span style="color:red">Die Würmer benötigen Schutz vor extremen Temperaturen</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Wurmtee und Wurmhumus zu 100 % für die eigenen Pflanzen nutzbar</span>|||
+|:-----------|-|:---------------- |
+|<span style="color:green">Schnelle Kompostierung</span>|||
+|:-----------|-|:---------------- |
+|<span style="color:green">Kosteneffizient im Unterhalt</span>|||
+|:-----------|-|:---------------- |
+|<span style="color:green">Einfach aufzusetzen</span>|||
+|:-----------|-|:---------------- |
+|<span style="color:green">Gutes / Pädagogisch wertvolles Projekt</span>|||
+|:-----------|-|:---------------- |
+
+Wir haben derzeit drei Wurmfarmen an unterschiedlichen Standorten in Betrieb. Eine selbstgebaute Farm im Garten, die im Sommer im Schatten eines schönen alten Birnbaums steht und im Winter im Gartenhaus schützend vor Frost gelagert wird. Mehr dazu findet ihr in [Meine erste Wurmfarm] [5]. Ansonsten haben wir zwei fertige Startersets, die auf dem Balkon, bzw. im Keller im Einsatz sind. 
+
+## Dünger aus der Wurmfarm vs. gekaufter Dünger
+
 
 ## Auswahl der Wurmfarm
 
-## Geeignetes Futter
-Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter,Platzha lter,Platzhalter,Pl atzhalter,Platzhalter,Platzhalter,Platzhal ter,Platzhalter,Platzhalter.Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter,Platzha lter,Platzhalter,Pl atzhalter,Platzhalter,Platzhalter,Platzhal
+## Was darf in die Wurmkiste?
+Eine enorm wichtige Frage. Um einen Wurmkompost so effizient wie möglich zu gestalten, spielen die organischen Zugaben eine wichtige Rolle. Einerseits dürfen sie den Würmern nicht schaden, andererseits sollen auch unerwünschte Gerüche bzw. ebenso unerwünschte "Gäste" der Wurmkiste fern bleiben. Unten findet ihr eine Tabelle mit organischen Materialien, die sich gut für den Einsatz innerhalb eines Wurmcontainers eignen, sowie Materialien die besser draußen bleiben.
 
-| Geeignetes Futter | NICHT geeignet
-|-----------|---------------- |
-|Gemüseschalen & Reste| Tierische Exkremente|
-|-----------|---------------- |
-|Obstschalen, altes Obst| Fleisch|
-|-----------|---------------- |
-|Laub und Blätter| Milchprodukte
-|-----------|---------------- |
-|Pflanzenschnitt, Blumen| Öle
-|-----------|---------------- |
-|Kaffee & Tee| gekochte Speisen
-|-----------|---------------- |
-|Eierschalen|
-|-----------|---------------- |
-|Stroh|
-|-----------|---------------- |
-|Braunes Papier & Eierkartons|
-|-----------|---------------- |
+| <strong> Geeignetes Wurm Futter </strong> ||<strong>  NICHT geeignet </strong> |
+|:-----------|-|:---------------- |
+|<span style="color:green"> Gemüseschalen & Reste </span>|| <span style="color:red">Tierische Exkremente</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Obstschalen, altes Obst</span>||  <span style="color:red">Fleisch</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Laub und Blätter</span>||  <span style="color:red">Milchprodukte</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Pflanzenschnitt, Blumen</span>||  <span style="color:red">Öle</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Kaffee & Tee</span>||  <span style="color:red">gekochte Speisen</span>|
+|:-----------|-|:---------------- |
+|<span style="color:green">Eierschalen</span>|||
+|:-----------|-|:---------------- |
+|<span style="color:green">Stroh</span>|||
+|:-----------|-|:---------------- |
+|<span style="color:green">Braunes Papier & Eierkartons</span>|||
+|:-----------|-|:---------------- |
 
 
 ## Die richtigen Würmer
@@ -128,3 +133,4 @@ Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Plat
 </div><!-- /.row -->
 
 [1]: https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen#abfall-und-abwasser
+[5]: /composting/wurmfarm/Wurmfarm_derAnfang

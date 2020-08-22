@@ -10,6 +10,23 @@ categories:
 tags:
     - plants
     - garten
+gallery:
+    - image_url: gallery-garten-1.jpg
+      caption: #
+    - image_url: gallery-garten-2.jpg
+      caption: #
+    - image_url: gallery-garten-3.jpg
+      caption: #
+    - image_url: gallery-garten-4.jpg
+      caption: #
+    - image_url: gallery-garten-5.jpg
+      caption: #
+    - image_url: gallery-garten-6.jpg
+      caption: #
+    - image_url: gallery-garten-7.jpg
+      caption: #
+    - image_url: gallery-garten-8.jpg
+      caption: #
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
@@ -45,6 +62,8 @@ header:
 
 ><span class="teaser">If we plant the right seeds, tomorrow will be better...</span> <cite>[Ben Vereen][1]</cite>
 
+### Unsere Garten Galerie
+{% include gallery %}
 
 Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter,Platzha lter,Platzhalter,Pl atzhalter,Platzhalter,Platzhalter,Platzhal ter,Platzhalter,Platzhalter.Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter,Platzha lter,Platzhalter,Pl atzhalter,Platzhalter,Platzhalter,Platzhal ter,Platzhalter,Platzhalter.Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter,Platzha lter,Platzhalter,Pl atzhalter,Platzhalter,Platzhalter,Platzhal ter,Platzhalter,Platzhalter.Platzhalter, Platzhalter, Platzhalter,Platzhalter, Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter, Platzhalter,Platzhalter,Platzhalter,Platzha lter,Platzhalter,Pl atzhalter,Platzhalter,Platzhalter,Platzhal ter,Platzhalter,Platzhalter
 <!--more-->

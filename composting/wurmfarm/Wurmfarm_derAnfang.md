@@ -22,13 +22,16 @@ gallery:
       caption: Frische Küchenabfälle in der oberen Ebene
       caption_url: "/composting/Wurmfarm/"
     - image_url: FWB_2.jpg
-      caption: Fertiger Humus in der unteren Ebene
+      caption: Fertiger Wurmkompost in der unteren Ebene
       caption_url: "/composting/Wurmfarm/"
     - image_url: FWB_5.jpg
       caption: In der unteren Schale sammelt sich Wurmtee
       caption_url: "/composting/Wurmfarm/"
     - image_url: FWB_6.jpg
       caption: Die fleißigen Helfer in Aktion
+      caption_url: "/composting/Wurmfarm/"
+    - image_url: FWB_7.jpg
+      caption: Der Wurmtee sollte alle paar Tage abgelassen werden
       caption_url: "/composting/Wurmfarm/"
 ---
 ## Wie alles begann...
@@ -52,7 +55,7 @@ Nein! Denn es gab eine weitere Option. **"Liquid Gold"**. In dem Artikel [World'
 
 {% include gallery %}
 
-Die Kosten für die Wurmfarm beliefen sich so auf weniger als 20 € und der Zusammenbau hat nur ca 45 min gedauert. Die ersten Bewohner habe ich im Komposthaufen sowie im Garten gesammelt und dazu ein paar Angelwürmern aus dem Zoogeschäft ein Schicksal am Haken erspart. Zusammen mit ein bisschen Komposterde  und ein paar frischen Küchenabfällen bezogen sie die untere Ebene und machten sich nach kurzer Zeit an die Arbeit. So konnte ich nach kurzer Zeit den ersten Wurmtee ernten.
+Die Kosten für die Wurmfarm beliefen sich so auf weniger als 20 € und der Zusammenbau hat nur ca. 45 min gedauert. Die ersten Bewohner habe ich im Komposthaufen sowie im Garten gesammelt und dazu ein paar Angelwürmern aus dem Zoogeschäft ein Schicksal am Haken erspart. Zusammen mit ein bisschen Komposterde  und ein paar frischen Küchenabfällen bezogen sie die untere Ebene und machten sich nach kurzer Zeit an die Arbeit. So konnte ich nach kurzer Zeit den ersten Wurmtee ernten.
 
 Die vielleicht wichtigste Frage: "Konnte der Chili Contest gewonnen werden?" 
 **Ja**

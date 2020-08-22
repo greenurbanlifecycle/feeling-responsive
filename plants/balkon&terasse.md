@@ -2,8 +2,10 @@
 layout: page-fullwidth
 subheadline:  "Grünes Paradies auf engstem Raum"
 title:  "Balkon & Terasse"
-teaser: "Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter"
-meta_teaser: "Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter"
+teaser: "Ihr lebt in einer Wohnung in der Stadt und habt keinen Garten? <strong>Überhaupt kein Problem!!! </strong>
+Auf einem Balkon oder einer Terasse habt ihr die Möglichkeit auf kleinem Raum eine grüne Oase zu erschaffen. Mit etwas Kreativität und Geschick lässt sich der verfügbare Raum effizient nutzen, so dass ihr eine Vielzahl unterschiedlicher Pflanzen anbauen könnt."
+meta_teaser: "Ihr lebt in einer Wohnung in der Stadt und habt keinen Garten? Überhaupt kein Problem!!!
+Auf einem Balkon oder einer Terasse habt ihr die Möglichkeit auf kleinem Raum eine grüne Oase zu erschaffen. Mit etwas Kreativität und Geschick lässt sich der verfügbare Raum effizient nutzen, so dass ihr eine Vielzahl unterschiedlicher Pflanzen anbauen könnt."
 breadcrumb: true 
 categories:
     - plants
@@ -29,6 +31,21 @@ gallery:
       caption: #
     - image_url: gallery-balkon-8.jpg
       caption: #
+    - image_url: gallery-balkon-9.jpg
+      caption: #
+    - image_url: gallery-balkon-10.jpg
+      caption: #
+    - image_url: gallery-balkon-11.jpg
+      caption: #
+    - image_url: gallery-balkon-12.jpg
+      caption: #
+    - image_url: gallery-balkon-13.jpg
+      caption: #
+    - image_url: gallery-balkon-14.jpg
+      caption: #
+    - image_url: gallery-balkon-15.jpg
+      caption: #
+    - image_url: gallery-balkon-16.jpg
 ---
 
 <div class="button-bar">
@@ -59,6 +76,10 @@ gallery:
   ><span class="teaser">The greatest fine art of the future will be making of a comfortable living from a small piece of land.</span> <cite>[Abraham Lincoln][1]</cite>
 <!--more-->
 
+Da sich die Nutzfläche auf Balkonen und Terassen auf einen kleinen Raum konzentriert, ist der Bewässerungsaufwand geringer als im Garten. Dennoch können Ernte und Artenvielfalt enorm sein. Mit platzsparender Anordnung und der richtigen Pflanzenauswahl gelingt das ohne weitere Probleme. Zusätzlich bietet ein Balkon einen gewissen Schutz gegen heftige Witterungseinflüsse und einige Schädlinge, die in einem Garten durchaus problematisch sein können. Wir zeigen euch ein paar Ideen und teilen unsere Erfahrungen, damit ihr das Optimum aus dem verfügbaren Platzangebot herausholen könnt. Die Schwerpunkte liegen dabei auf [Nutzpflanzen] [6], insektenfreundlichen  [Blühpflanzen] [7] und [Exoten] [8] für ein bisschen Urlaubsfeeling daheim. Zudem teilen wir unsere Erfahrungen bezüglich Konzepten zur automatisierten **Bewässerung**. Wenn ihr Lust habt, selbst handwerlich aktiv zu werden, stellen wir außerdem ein paar **Do it yourself** Ideen vor. Nachmachen erwünscht!
+
+### Unsere Balkon Galerie
+Bevor wir ins Detail gehen ein paar Eindrücke! Bilder sagen ja oft mehr als 1000 Worte...
 {% include gallery %}
 
 ### Nutzpflanzen
@@ -69,8 +90,7 @@ gallery:
       <p>
       <p class="subheadline"><span class="subheader">Chili, Paprika, Tomate & Co</span></p>
       <a href="/plants/balkon&terasse/nutzpflanzen/" title="Chili, Paprika, Tomate & Co"><img src="\images\Numex_Twilight_Bluete_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+        Ihr möchtet euer eigenes Obst und Gemüse anbauen, habt aber kaum Platz und noch dazu nicht den grünsten Daumen. Dann schaut hier vorbei. Wir zeigen euch worauf ihr achten solltet. Von der Anzucht bis zur Ernte. Wann müsst ihr mit der Aufzucht beginnen, wann können eure Sämlinge aus der Wohnung auf den Balkon. Was ist die richtige Topfgröße, der richtige Standort, der richtige Dünger, die beste Erde und worauf ist sonst noch zu achten. Für all diese Fragen versuchen wir Antworten aus unseren Erfahrungen der letzten Monate und Jahre zu geben. Wir machen Vorschläge für geeignete Pflanzen und teilen mit euch, welche Maßnahmen bei uns einen positiven Effekt auf die Ernte, Wachstum und gesunde Pflanzen hatten. 
         <a href="/plants/balkon&terasse/nutzpflanzen/" title="Chili, Paprika, Tomate & Co"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
@@ -126,3 +146,6 @@ gallery:
  [5]: http://foundation.zurb.com/docs/components/block_grid.html
  [3]: {{ site.url }}{{ site.baseurl }}/design/page/
  [4]: {{ site.url }}{{ site.baseurl }}/design/page-fullwidth/
+ [6]: /plants/balkon&terasse/nutzpflanzen/
+ [7]: /plants/balkon&terasse/bluehpflanzen
+ [8]: /plants/balkon&terasse/exoten
