@@ -10,7 +10,7 @@ breadcrumb: true
 categories:
     - plants
 header:
-   image_fullwidth: Header_Balkon.jpg
+   image_fullwidth: Header_Balkon_2.jpg
 tags:
     - plants
     - balkon & terasse
