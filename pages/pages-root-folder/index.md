@@ -7,6 +7,9 @@
 layout: frontpage
 header:
     image_fullwidth: header_frontpage_gulc.jpg 
+subheadline:  "Green Urban Life Cycle"
+title:  "G.U.L.C."
+teaser: "Green Urban Life Cycle soll als Anlaufpunkt für den Stadtmenschen ohne Grünen Daumen dienen, der Lust auf ein paar Pflanzen hat oder einfach nette Geschichten darüber lesen möchte."
 widget1:
   title: "Was machen wir?"
   url: "/blog/portfolio/"
@@ -15,7 +18,7 @@ widget1:
 widget2:
   title: "Warum noch ein Blog?"
   url: '/warum/'
-  image: GULC_why.png
+  image: GULC_why_resize.png
   text: 'Was ist "Halbschatten"? Was heißt "nicht zu viel gießen" oder "mäßig gießen"? Weil wir selber unpräzise Angaben aus persönlichen und beruflichen Wegen verabscheuen, wollen wir in diesem Blog möglichst verständliche und deutliche Tipps geben, wie erfolgreich etwas wächst, ohne schon als Botaniker auf die Welt gekommen zu sein. Dies alles versuchen wir euch, kurz und knapp, mit einer Prise Pfeffer garniert auf dem Silbertablett zu servieren - Bon Appétit!'
 widget3:
   title: "Wer & Was sind wir?"

@@ -10,7 +10,7 @@ breadcrumb: true
 categories:
     - plants
 header:
-   image_fullwidth: Header_Balkon.jpg
+   image_fullwidth: Header_Balkon_2.jpg
 tags:
     - plants
     - balkon & terasse
@@ -104,8 +104,7 @@ Bevor wir ins Detail gehen ein paar Eindrücke! Bilder sagen ja oft mehr als 100
       <p>
       <p class="subheadline"><span class="subheader">Blühpflanzen</span></p>
       <a href="/plants/balkon&terasse/bluehpflanzen/" title="Blühpflanzen"><img src="\images\Biene_Blume_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+        Nicht nur schön fürs Auge sondern auch wichtig für Bienen und andere Nützlinge. Wenn ihr nicht ausschließlich auf die Ernte bedacht seid sondern ein farbenfrohes Paradies schaffen wollt, dann seid ihr hier genau richtig.
         <a href="/plants/balkon&terasse/bluehpflanzen" title="Blühpflanzen"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
@@ -119,8 +118,7 @@ Bevor wir ins Detail gehen ein paar Eindrücke! Bilder sagen ja oft mehr als 100
       <p>
       <p class="subheadline"><span class="subheader">Palmen, Olivenbäume & Co</span></p>
       <a href="/plants/exoten/" title="Exoten"><img src="\images\Olive_Teaser.jpg" class="alignleft" width="150" height="150" alt="Blog of G.U.L.C."></a>
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
-        Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter Platzhalter
+        Den Sommerurlaub prägen oft nicht ausschließlich die Landschaft oder das Meer. Die Vegetation spielt ebenfalls eine wichtige Rolle wenn wir unserem Alltag entfliehen möchten. Wer ein bisschen südlichen Flair in das eigene Zuhause integrieren möchte, kann in den wärmeren Monaten Olivenbäume, Palmen und Co. ohne weiteres als Kübelpflanze auf den Balkon oder die Terasse stellen. Die Überwinterung gestaltet sich je nach Art als etwas komplizierter, ist aber auch kein größeres Problem.
         <a href="/plants/exoten/" title="Exoten"><strong>Read More&nbsp;›</strong></a>
       </p>
     </div><!-- /.small-12.columns -->
