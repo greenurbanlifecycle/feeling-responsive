@@ -45,6 +45,13 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+tags:
+  - video
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/v-Wevq1DPCw' frameborder='0' allowfullscreen></iframe>"
+video:
+    embedURL: ""
+    contentURL: ""
+    thumbnailUrl: ""
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
